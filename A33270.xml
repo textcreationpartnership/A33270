@@ -1,0 +1,543 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief and pithy treatise about comfort which Gods children have, or at least earnestly desire, and long after whilst they are in this world : together with the observations of comfort and the removal of them / by John Clark ...</title>
+            <author>Clark, John, 1630-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 72 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33270</idno>
+            <idno type="STC">Wing C4467</idno>
+            <idno type="STC">ESTC R11148</idno>
+            <idno type="EEBO-CITATION">13115735</idno>
+            <idno type="OCLC">ocm 13115735</idno>
+            <idno type="VID">97750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33270)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97750)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 411:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief and pithy treatise about comfort which Gods children have, or at least earnestly desire, and long after whilst they are in this world : together with the observations of comfort and the removal of them / by John Clark ...</title>
+                  <author>Clark, John, 1630-1669.</author>
+               </titleStmt>
+               <extent>141, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.T. and R.H. for William Miller ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement on p. [1] at end.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grace (Theology) --  Early works to 1800.</term>
+               <term>Assurance (Theology) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97750:1" rendition="simple:additions"/>
+            <pb facs="tcp:97750:1"/>
+            <p>A Brief and Pithy TREATISE ABOUT COMFORT, Which Gods Children have or at leaſt earneſtly deſire, and long after whilſt they are in this World:</p>
+            <p>Together with the Obſervations of Comfort, and the Removal of them.</p>
+            <p>By <hi>John Clark,</hi> Maſter of Arts, ſome<g ref="char:EOLhyphen"/>time Rector of <hi>Cotgrave</hi> in <hi>Not<g ref="char:EOLhyphen"/>tingham-Shire.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. T.</hi> and <hi>R. H.</hi> for <hi>William Miller,</hi> at the Guilded Acron in St. <hi>Pauls</hi> Church-Yard, near the Little North Door, 1670.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:97750:2"/>
+            <pb facs="tcp:97750:2"/>
+            <head>The Contents of the ſeveral Sections.</head>
+            <list>
+               <item>1 <hi>OF comfort in gene<g ref="char:EOLhyphen"/>rall.</hi>
+               </item>
+               <item>2. <hi>The hindrances of com<g ref="char:EOLhyphen"/>fort.</hi>
+               </item>
+               <item>3. <hi>Other hindrances of a Chriſtians comfort.</hi>
+               </item>
+               <item>4. <hi>The Authors of a Chriſt<g ref="char:EOLhyphen"/>ians trouble.</hi>
+               </item>
+               <item>5. <hi>Of the connexion between Grace, and comfort.</hi>
+               </item>
+               <item>6. <hi>The ſum of what remains.</hi>
+               </item>
+               <item>7. <hi>Of Converſion.</hi>
+               </item>
+               <item>8. <hi>Of ſorrow for ſin.</hi>
+               </item>
+               <item>9. <hi>Of the pardonableneſs of ſin.</hi>
+               </item>
+               <pb facs="tcp:97750:3"/>
+               <item>10. <hi>Of the ſin unto death.</hi>
+               </item>
+               <item>11. <hi>Of the day of grace: the time of viſitation, or the accepted time.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="section">
+            <pb n="5" facs="tcp:97750:3"/>
+            <head>SECT. 1. <hi>Of Comfort, in Ge<g ref="char:EOLhyphen"/>neral.</hi>
+            </head>
+            <p>IT ill becomes Chriſtians to conceive of God, as of an <hi>Aegyptian</hi> Taſk<g ref="char:EOLhyphen"/>maſter, who only requires from his ſervants, the per<g ref="char:EOLhyphen"/>formance of their taſk, without reſpect to their comfort, and refreſhment. Surely it is the entertain<g ref="char:EOLhyphen"/>ment of ſome ſuch like
+<pb n="6" facs="tcp:97750:4"/>thoughts, which diſcou<g ref="char:EOLhyphen"/>rageth many from entring upon the ſervice of God, and that which for a long time makes it tedious to many, who having enga<g ref="char:EOLhyphen"/>ged themſelves already in his ſervice, do proceed very heavily, and yet are ſo far convinced of the neceſſity of continuing therein, that they dare not entertain any thoughts of going back.</p>
+            <p>This no doubt is a very great injury to him, who is juſtly ſtyled, <hi>the God of all conſolation;</hi> and who hath by the Goſpel ſo in<g ref="char:EOLhyphen"/>finitely remitted the bur<g ref="char:EOLhyphen"/>den of that taſk, which
+<pb n="7" facs="tcp:97750:4"/>was required of man, when he was ſufficiently able to undergo it: yea, and hath from age to age, been re<g ref="char:EOLhyphen"/>mitting it, till at length, the <hi>Yoke be eaſie, and the burden light;</hi> to all thoſe who do impartially judge of it, and in the bearing of it do not make it grievous to themſelves.</p>
+            <p>Far be it therefore from any that own themſelves for the ſervants of the moſt high, to caſt ſuch an imputation upon their Lord and Maſter, and to diſgrace his ſervice by mis<g ref="char:EOLhyphen"/>repreſenting it to them<g ref="char:EOLhyphen"/>ſelves, or others; as a <hi>yoke which neither them<g ref="char:EOLhyphen"/>ſelves
+<pb n="8" facs="tcp:97750:5"/>nor their Forefathers have been able to bear;</hi> al<g ref="char:EOLhyphen"/>though of neceſſity they have been conſtrained to bear it, only leſt they purchaſe his diſpleaſure, and ſo run themſelves in<g ref="char:EOLhyphen"/>evitably upon the ruine both of their ſouls, and bodies.</p>
+            <p>We cannot but receive the word of God, as a <hi>ſyſteme</hi> of truths, the leaſt title whereof will not ad<g ref="char:EOLhyphen"/>mit of any appearance, or ſhadow of falſhood, and if we are converſant there<g ref="char:EOLhyphen"/>in, we meet with thou<g ref="char:EOLhyphen"/>ſands of places, wherein it is not only atteſted by credible and unſuſpected
+<pb n="9" facs="tcp:97750:5"/>witneſſes, that God is the God of peace, joy, and conſolation, but demon<g ref="char:EOLhyphen"/>ſtrated alſo by thoſe gra<g ref="char:EOLhyphen"/>cious, and <hi>precious promi<g ref="char:EOLhyphen"/>ſes,</hi> which he hath made for our comfort and en<g ref="char:EOLhyphen"/>couragement in the ways of holineſs; and the many hiſtoricall reports, of thoſe who have profeſſed them<g ref="char:EOLhyphen"/>ſelves to have received the abundant conſolations of Chriſt, in their ſubject<g ref="char:EOLhyphen"/>ion to the Goſpel, though called thereby to paſſive duties, which of all others are the hardeſt, and hea<g ref="char:EOLhyphen"/>vieſt.</p>
+            <p>But becauſe it is matter of undeniable Experience
+<pb n="10" facs="tcp:97750:6"/>that many of Gods true, and faithful ſervants com<g ref="char:EOLhyphen"/>plain of that ſmall portion of theſe conſolations, which they are made par<g ref="char:EOLhyphen"/>takers of, which rather ſupport them under the yoke of <hi>Chriſts</hi> ſervice, than enable them to bear the burden with chear<g ref="char:EOLhyphen"/>fulneſs and delight: It will not be amiſs to en<g ref="char:EOLhyphen"/>quire whence this comes to paſs, that afterwards we may the more effectually apply the remedy.</p>
+         </div>
+         <div n="2" type="section">
+            <pb n="11" facs="tcp:97750:6"/>
+            <head>SECT. 2. <hi>The hindrances of com<g ref="char:EOLhyphen"/>fort.</hi>
+            </head>
+            <p>As the barrenneſs of land, where there is no defect on the huſbandmans part, doth commonly pro<g ref="char:EOLhyphen"/>ceed from one of the two contrary extreams of wet, and drought; ſo likewiſe the want of comfort in the ſouls of believers.</p>
+            <p>For on Gods part there is no defect, he being truly ſtyled, (as was ſaid be<g ref="char:EOLhyphen"/>fore) the <hi>God of all conſo<g ref="char:EOLhyphen"/>lation, and Chriſt the Prince of peace,</hi> and the Holy
+<pb n="12" facs="tcp:97750:7"/>Ghoſt, <hi>the comforter,</hi> and the Goſpel <hi>glad tidings</hi> to all that receive it in faith. But there are two extreams, into which be<g ref="char:EOLhyphen"/>lievers do commonly plunge themſelves, if not to the total loſs, yet to the very great abatement of thoſe conſolations, which they might otherwiſe in a very large meaſure be par<g ref="char:EOLhyphen"/>takers of. For either they ſeek for, and expect com<g ref="char:EOLhyphen"/>fort independent on duty, or elſe they wholly ſuſ<g ref="char:EOLhyphen"/>pend their comforts on the performance there<g ref="char:EOLhyphen"/>of.</p>
+            <p n="1">1. Sometimes a Child of God may grow care<g ref="char:EOLhyphen"/>leſs,
+<pb n="13" facs="tcp:97750:7"/>and ſlothful in the performance of duties, ſo that if he omit not that part which conſiſts in bo<g ref="char:EOLhyphen"/>dily exerciſe, as praying, hearing, reading, &amp;c. yet he is not carefull to exerciſe thoſe graces, which are the very life, and ſoul of duty, and which indeed do give them the denomination of duty in the ſight of God: And then no wonder if God withhold from him thoſe conſolations, which in this ſpirituall diſtemper might rather encou<g ref="char:EOLhyphen"/>rage him in his ſloth, than quicken him to a more effectuall endeavour
+<pb n="14" facs="tcp:97750:8"/>to walk cloſely with God. Now therefore for ſuch an one to expect an infu<g ref="char:EOLhyphen"/>ſion of ſpirituall conſo<g ref="char:EOLhyphen"/>lation in the way of his ſloth and carnality, is alto<g ref="char:EOLhyphen"/>gether vain; becauſe he doth thereby but invite God to encourage him in an evil way, which the ho<g ref="char:EOLhyphen"/>ly God will never do.</p>
+            <p>How much leſs then have they any reaſon, to ex<g ref="char:EOLhyphen"/>pect a ſhare in theſe con<g ref="char:EOLhyphen"/>ſolations, who not only neglect the internal ex<g ref="char:EOLhyphen"/>erciſe of grace, but alſo in a very great meaſure, through a greater preva<g ref="char:EOLhyphen"/>lency of this ſpiritual ſloth, do frequently omit
+<pb n="15" facs="tcp:97750:8"/>the external performance of required duties?</p>
+            <p>Yea, ſo great ſometimes is the deceit of a Chriſti<g ref="char:EOLhyphen"/>ans heart, in this particu<g ref="char:EOLhyphen"/>lar, that they are apt to ſay, I cannot do duties; I have no heart to go to ordinances, for I have no comfort in my heart, when I am about them, I have no ſmiles of Gods countenance upon my ſoul: if the Lord would but be<g ref="char:EOLhyphen"/>ſtow ſome comfort upon me, then I could do du<g ref="char:EOLhyphen"/>ties chearfully, I could go to ordinances willingly; but while I am without comfort I can do no<g ref="char:EOLhyphen"/>thing.</p>
+            <pb n="16" facs="tcp:97750:9"/>
+            <p>Thus ſome by an error on the left hand, do in vain, ſeek for comfort, be<g ref="char:EOLhyphen"/>fore and out of a way of duty.</p>
+            <p n="2">2. Others ſometimes fall as much ſhort of their de<g ref="char:EOLhyphen"/>ſired comfort, by an ex<g ref="char:EOLhyphen"/>treme on the right hand: for they are indeed very painful, and diligent in the performance of every known duty, and do not only mind the outſide of duty, but do alſo very ſeriouſly engage their hearts to accompany their outward performances, by the exerciſe of every ſuit<g ref="char:EOLhyphen"/>able and neceſſary grace, to the utmoſt of their
+<pb n="17" facs="tcp:97750:9"/>power: but then they ſuſ<g ref="char:EOLhyphen"/>pend their comfort on ſuch an exquiſiteneſs, and perfection of performance, as is either very rarely, or not at all attainable on this ſide heaven.</p>
+            <p>This, according to the beſt of my obſervation, is that ſpring of trouble, which feeds the minds, of many of Gods dear ſer<g ref="char:EOLhyphen"/>vants with a perpetuity of diſconſolateneſs, drawing out their diſtempers to months, and years, and ſometimes to the end of their lives. As they grow more diligent and ſerious in the performance of du<g ref="char:EOLhyphen"/>ties, they ſtill diſcover
+<pb n="18" facs="tcp:97750:10"/>more &amp; more of their own imperfections, and weak<g ref="char:EOLhyphen"/>neſs; ſo that, though they do in good earneſt make a progreſs in grace and holineſs, yet their defects coming more to their ſight and view, they think they do believe, whereby their troubles encreaſe upon them dayly, and their ex<g ref="char:EOLhyphen"/>pected comfort flies fur<g ref="char:EOLhyphen"/>ther and faſter, from them.</p>
+            <p>It fares with them here<g ref="char:EOLhyphen"/>in, as with a man that ſails by a rock, which ſeems to move from him, and the faſter he ſails, the more the rock ſeems to mend its pace flying from
+<pb n="19" facs="tcp:97750:10"/>him, though in truth the rock neither mends its pace, nor moves, but the ſhip in which the man is carryed. So theſe perſons, the ſwifter they row in the ſhip of duty to over<g ref="char:EOLhyphen"/>take comfort, the faſter comfort ſeems to fly from them, when as in truth, it is not comfort that flies from them, but they fly from their comforts, while they place ſincerity in a certain degree of perfect<g ref="char:EOLhyphen"/>ion; and therefore will not own, nor receive thoſe comforts, which the Goſ<g ref="char:EOLhyphen"/>pel holds out to their ſin<g ref="char:EOLhyphen"/>cerity, till they have at<g ref="char:EOLhyphen"/>tained that degree of their
+<pb n="20" facs="tcp:97750:11"/>ſelf-limited perfection. To clear this by an in<g ref="char:EOLhyphen"/>ſtance.</p>
+            <p>A Child of God being convinced of the evil of ſin in generall, or of ſome ſin in particular, knows that there is no hope of pardon without Godly ſor<g ref="char:EOLhyphen"/>row, and repentance; and that every kind, or degree of ſorrow is not ſufficient. Therefore in order to his own practice, he lays down theſe two rules. Firſt, that his ſorrow muſt be true, and unfeigned. Se<g ref="char:EOLhyphen"/>ondly, That his ſorrow muſt be proportionable to the evil of his ſin.</p>
+            <p>Hereupon he ſets him<g ref="char:EOLhyphen"/>ſelf
+<pb n="21" facs="tcp:97750:11"/>ſeriouſly by praying, reading, &amp;c. to diſcover the evil of his ſin in the ſe<g ref="char:EOLhyphen"/>veral aggravations there<g ref="char:EOLhyphen"/>of, that ſo the ſence thereof may excite in him a proportionable ſorrow.</p>
+            <p>Now the iſſue hereof is this: the more he ſearch<g ref="char:EOLhyphen"/>eth, and ſees into the na<g ref="char:EOLhyphen"/>ture, and evil of his ſin, the more unproportionable he ſtill finds his ſorrow to be to the hainouſneſs of his ſin; ſo that his ſorrow in compariſon thereof ſeems to be no ſorrow, and much leſs, that true and right ſorrow, where<g ref="char:EOLhyphen"/>to the promiſes of pardon are made; and therefore
+<pb n="22" facs="tcp:97750:12"/>while he lies under this apprehenſion, he utterly refuſeth and putteth away all that comfort, which in the promiſes is held out to the penitent ſin<g ref="char:EOLhyphen"/>ner.</p>
+            <p>This may ſuffice to diſ<g ref="char:EOLhyphen"/>cover the ſecond hin<g ref="char:EOLhyphen"/>drance of a Chriſtians com<g ref="char:EOLhyphen"/>fort; but what a poor ſoul is to do in ſuch a caſe, ſhall (God willing) be ſhewed afterwards in its proper place, when I come to ſpeak of the remedy of theſe Evils.</p>
+         </div>
+         <div n="3" type="section">
+            <pb n="23" facs="tcp:97750:12"/>
+            <head>SECT. 3. <hi>Some other hindrances of a Chriſtians com<g ref="char:EOLhyphen"/>fort.</hi>
+            </head>
+            <p>BEſide thoſe foremen<g ref="char:EOLhyphen"/>tioned moſt uſual lets of a Chriſtians comfort, there are yet two other, which are of no leſs ma<g ref="char:EOLhyphen"/>lignant influence upon the ſoul, for the diſturbance of the peace thereof, and powerful for the exclu<g ref="char:EOLhyphen"/>ſion of that joy, which would make a courſe of holineſs ſweet to a belie<g ref="char:EOLhyphen"/>ver, and render his Reli<g ref="char:EOLhyphen"/>gion
+<pb n="24" facs="tcp:97750:13"/>the more amiable in the ſight of the by<g ref="char:EOLhyphen"/>ſtanders.</p>
+            <p n="1">1. The firſt is a ſuſ<g ref="char:EOLhyphen"/>pition of the defect of Grace, as to the being, truth, or neceſſary degree thereof. And what comfort can any one take, who is but ſerious about the things that concern his e<g ref="char:EOLhyphen"/>verlaſting welfare, who ap<g ref="char:EOLhyphen"/>prehends himſelf to be wholly void of grace; or looks upon his grace but as common, not ſaving grace; or if it ſeem to be ſa<g ref="char:EOLhyphen"/>ving grace; yet is ſo ſmall, weak, and altogether un<g ref="char:EOLhyphen"/>proportionable to the time, and means, he hath
+<pb n="25" facs="tcp:97750:13"/>enjoyed, that he ſeems ra<g ref="char:EOLhyphen"/>ther to have leſs than he once had, which one thing is enough to make him ſuſpect the truth of it, becauſe <hi>true grace is a growing grace.</hi>
+            </p>
+            <p>But the trouble ariſing upon this account, is not at all times, nor in all per<g ref="char:EOLhyphen"/>ſons alike: for ſometimes it is more fixed and <hi>Chro<g ref="char:EOLhyphen"/>nical'd,</hi> and ſometimes more <hi>volatile</hi> and tran<g ref="char:EOLhyphen"/>ſient.</p>
+            <p n="1">1. Sometimes this ſuſ<g ref="char:EOLhyphen"/>picion of the want of true grace, is rooted upon ſome miſtaken notions, which through the want of means of better infor<g ref="char:EOLhyphen"/>mation,
+<pb n="26" facs="tcp:97750:14"/>or being perti<g ref="char:EOLhyphen"/>naciouſly retained, do long grow, and bring forth this uncomfortable fruit in the ſoul.</p>
+            <p>So ſome looking upon converſion as a very great, and manifeſt change wrought by the ſpirit of God, upon the whole man; becauſe they are not ſen<g ref="char:EOLhyphen"/>ſible of any ſuch manifeſt change wrought in them at any particular time, they lie long under the ſuſpicion, that then ſure they were never conver<g ref="char:EOLhyphen"/>ted, and therefore have no true grace.</p>
+            <p>Or, although the ſigns whereby they proſecute
+<pb n="27" facs="tcp:97750:14"/>the diſcovery of grace, be proper, yet through miſap<g ref="char:EOLhyphen"/>application, or weakneſs in the application, they are not able by the uſe of them to diſcover that grace which they ſeek after.</p>
+            <p>There are not many that have that ſkill, and dexterity; in the applica<g ref="char:EOLhyphen"/>tion of ſigns, thereby to attain any probable and comfortable evidence of their ſtate; and ſometimes the ſigns they make uſe of, are ſuch, that though if they could find thoſe ſigns in themſelves they might conclude grace, yet they find it no leſs difficult to find the reality of thoſe
+<pb n="28" facs="tcp:97750:15"/>ſigns than of that grace, which by them they ſeek for. Hereupon they are neceſſitated to ſeek for the ſigns of thoſe ſigns, &amp; then for the reality of thoſe ſubordinate ſigns, &amp;c. till they have loſt themſelves in a maze of ſigns upon ſigns, and find it next to an impoſſibility to attain any clear diſcovery of grace, by the uſe of them: by which means it comes to paſs that they lye long without that comfort, which ſome good probable evidence of the being and truth of grace might afford them. For inſtance, It is a true ſign of grace, when
+<pb n="29" facs="tcp:97750:15"/>we can find in our hearts an univerſal hatred of ſin, as ſin: It is not any kind of hatred of ſin, but the hatred of ſin, as ſin: ſo that though we do find in our hearts, an hatred of ſin, yet there is need of other ſigns whereby we may know whether we hate ſin, as ſin. Again,</p>
+            <p>Where there is true grace, there is a concate<g ref="char:EOLhyphen"/>nation of all graces. Now before we can conclude from this ſign, we muſt have the evidence of e<g ref="char:EOLhyphen"/>very particular grace, be<g ref="char:EOLhyphen"/>fore we can come to the evidence of grace in generall.</p>
+            <pb n="30" facs="tcp:97750:16"/>
+            <p>So when any one ſhall go about to ſeek for grace by its prevailing degree; it requires many ſigns, long obſervation, and much ex<g ref="char:EOLhyphen"/>perience, before they can poſſibly know whether they have grace in a pre<g ref="char:EOLhyphen"/>vailing degree, or no.</p>
+            <p n="2">2. Sometimes this ſuſ<g ref="char:EOLhyphen"/>picion of the want of grace is but occaſionall and accidentall: and then commonly it is of no long continuance. This many times happens to thoſe, who for the moſt part have ſuch a probable evidence of the truth of heir grace, as doth quiet heir hearts, and enable
+<pb n="31" facs="tcp:97750:16"/>them comfortably to preſs on towards a further meaſure of grace, and a ful<g ref="char:EOLhyphen"/>ler aſſurance of their in<g ref="char:EOLhyphen"/>tereſt in the heavenly in<g ref="char:EOLhyphen"/>heritance. But occaſionally in reading, or hearing, they meet with ſome ſuch ſigns of true grace, or ne<g ref="char:EOLhyphen"/>ceſſary properties of a child of God, which, be<g ref="char:EOLhyphen"/>cauſe at preſent they do not eaſily diſcern in them<g ref="char:EOLhyphen"/>ſelves, it raiſeth ſome doubts and fears in them, which eclipſe their former comfort, and diſturb their peace, till by looking a<g ref="char:EOLhyphen"/>gain over their former e<g ref="char:EOLhyphen"/>vidences, they find no cauſe of continuing thoſe
+<pb n="32" facs="tcp:97750:17"/>new raiſed jealouſies. But the notes of difference that are aſſigned, between true and counterfeit, ſaving and common grace, a child of God and an hy<g ref="char:EOLhyphen"/>pocrite, do not ſeldom raiſe theſe jealouſies, which ſometimes may be occaſion of long diſcomfort, yet (I ſay) they are but of ſhort continuance.</p>
+            <p n="2">2. An other grand hin<g ref="char:EOLhyphen"/>drance of comfort, is a ſuſ<g ref="char:EOLhyphen"/>picion of the unpardo<g ref="char:EOLhyphen"/>nableneſs of their ſins or at leaſt of ſome particular ſin, which they imagine was committed with ſuch aggravating circumſtances, as do exclude them from
+<pb n="33" facs="tcp:97750:17"/>the benefit of the promi<g ref="char:EOLhyphen"/>ſes, <hi>viz.</hi> that it was com<g ref="char:EOLhyphen"/>mitted wilfully, againſt their own light, and know<g ref="char:EOLhyphen"/>ledge, and againſt the checks, and reluctancy of their own conſcience, &amp;c.</p>
+            <p>This cloud, though ſome<g ref="char:EOLhyphen"/>times at firſt appearance it ſeems but ſmall, yet in proceſs of time it ſo over<g ref="char:EOLhyphen"/>ſpreads, and darkens the ſoul, that it becomes the principle of diſmall trouble and confuſion, ſpecially when it grows (as frequently it doth) to an imagination that they have <hi>ſinned againſt the Holy Ghoſt.</hi> Then they throw off all offers of com<g ref="char:EOLhyphen"/>fort
+<pb n="34" facs="tcp:97750:18"/>from ſcripture and promiſes, as eaſily as <hi>Samp<g ref="char:EOLhyphen"/>ſon</hi> broke the new cords wherewith he was bound. They give themſelves up for reprobates, and account the ſcriptures and blood of <hi>Chriſt</hi> to ſignifie no more to them, than to the damned in hell.</p>
+            <p>This is a ſad condition indeed, and commonly proves to be ſuch a ſtuborn and untractable diſtemper, that the means applyed for cure, ſeems rather to en<g ref="char:EOLhyphen"/>creaſe than abate the di<g ref="char:EOLhyphen"/>ſtemper; and indeed many times is not perfectly and throughly cured, till in the end of their days, God
+<pb n="35" facs="tcp:97750:18"/>bring them within ſight of heaven.</p>
+            <p n="3">3. Sometimes poor Chriſtians, though they look not upon their ſins, as in themſelves unpardo<g ref="char:EOLhyphen"/>nable, yet they think that their day of grace, and the accepted time for them is already paſt, and there<g ref="char:EOLhyphen"/>fore that there is no room left them for hope.</p>
+            <p>This proceeds from the review of time paſt, wherein they ſee how ma<g ref="char:EOLhyphen"/>ny tenders, offers, and op<g ref="char:EOLhyphen"/>portunities they have neg<g ref="char:EOLhyphen"/>lected, and how unprofi<g ref="char:EOLhyphen"/>table, and barren they have been under the plen<g ref="char:EOLhyphen"/>tiful means of Grace, that
+<pb n="36" facs="tcp:97750:19"/>they formerly have enjoy<g ref="char:EOLhyphen"/>ed, eſpecially if God ſeem now to have deprived them of thoſe means and opportunities: whence they conclude that God will wait upon them no longer, but hath concluded them in a ſtate of unbe<g ref="char:EOLhyphen"/>lief, and reprobation, and that therefore it is a vain thing for them to ſtrive and hope any longer, ſee<g ref="char:EOLhyphen"/>ing that time paſt cannot be called again, nor neg<g ref="char:EOLhyphen"/>lected opportunities be re<g ref="char:EOLhyphen"/>deemed.</p>
+            <p n="4">4. To theſe may be ad<g ref="char:EOLhyphen"/>ded another froward di<g ref="char:EOLhyphen"/>ſtemper of mind, where<g ref="char:EOLhyphen"/>in the heart refuſeth and
+<pb n="37" facs="tcp:97750:19"/>ſlighteth all comfort, which comes not in by the way of aſſurance. Hence it comes to paſs that ſo long as they find not their cor<g ref="char:EOLhyphen"/>ruptions ſo perfectly ſub<g ref="char:EOLhyphen"/>dued, and their graces heigthened to that degree as may be to them a ſuffici<g ref="char:EOLhyphen"/>ent ground of full aſſu<g ref="char:EOLhyphen"/>rance, they are to them<g ref="char:EOLhyphen"/>ſelves the authors of a very disconſolate condition, which many times, as it needs muſt, proves to be of long continuance.</p>
+            <p>For concluſion of this part of my diſcourſe, I ſhall on<g ref="char:EOLhyphen"/>ly add, that outward trou<g ref="char:EOLhyphen"/>bles, and a <hi>melancholy</hi> diſ<g ref="char:EOLhyphen"/>poſition of body and mind,
+<pb n="34" facs="tcp:97750:20"/>are ſometimes, if not the pri<g ref="char:EOLhyphen"/>mary inlets of diſconſolate<g ref="char:EOLhyphen"/>eſs, yet they are at leaſt ef<g ref="char:EOLhyphen"/>ectuall obſtructors and ex<g ref="char:EOLhyphen"/>cluders of that comfort, which otherwiſe might be aſweet refreſhing to their ſouls.</p>
+            <p>For although God beſtow upon ſome, ſuch a cheer<g ref="char:EOLhyphen"/>ful lightſome diſpoſition, as eaſily admits every beam of comfort, and goes more lightly under the burden of afflictions; yet are the ſouls of others ſo groſly darkened with that black diſtemper of <hi>melan<g ref="char:EOLhyphen"/>cholly,</hi> &amp; ſo deeply pierced by the dint even of light afflictions, that no indif<g ref="char:EOLhyphen"/>ferent
+<pb n="39" facs="tcp:97750:20"/>cauſe of comfort will ſuffice to expel the blackneſs of the one, or heal the wounds which are made by the other.</p>
+            <p>Thus I have briefly diſ<g ref="char:EOLhyphen"/>covered what thoſe things are, which do not only hinder comfort, but alſo produce, augment, &amp; con<g ref="char:EOLhyphen"/>tinue thoſe inward troubles which many of Gods peo<g ref="char:EOLhyphen"/>ple fall into, and ſo rob them of thoſe ſweet conſo<g ref="char:EOLhyphen"/>lations which are their preſent portion, which their heavenly father hath aſſigned them for their ſupport, in the midſt of thoſe many diſcourage<g ref="char:EOLhyphen"/>ments, which they meet
+<pb n="40" facs="tcp:97750:21"/>withall in their holy pil<g ref="char:EOLhyphen"/>grimage towards the hea<g ref="char:EOLhyphen"/>venly <hi>Jeruſalem.</hi>
+            </p>
+         </div>
+         <div n="4" type="section">
+            <head>SECT. IV. <hi>The Authors of a Chri<g ref="char:EOLhyphen"/>ſtians trouble.</hi>
+            </head>
+            <p>HAving now ſpoken of the immediate cauſes of a Chriſtians trouble, it will be very uſeful to ſay ſomething, before we paſs any further, concerning the Authors of theſe trou<g ref="char:EOLhyphen"/>bles.</p>
+            <p n="1">1. It appears in the fore<g ref="char:EOLhyphen"/>mentioned particulars, how much the blame lies
+<pb n="41" facs="tcp:97750:21"/>upon themſelves, either through ignorance not knowing where to ſeek comfort, or through error going in a wrong way, or through weakneſs though the way be plain before them yet cannot they walk therein, or elſe through wilfulneſs when they, with the <hi>Pſalmiſt, refuſe to be comforted,</hi> although there be ſufficient ground whereupon to ſtay their ſouls: So that if they enjoy not that refreſhing and re<g ref="char:EOLhyphen"/>viving light of Gods coun<g ref="char:EOLhyphen"/>nance, they may in a great meaſure thank them<g ref="char:EOLhyphen"/>ſelves as authors of that evil.</p>
+            <pb n="42" facs="tcp:97750:22"/>
+            <p>Neither may we excuſe the Devil, who no doubt hath an hand to the utmoſt of his power in all the troubles and diſcomforts that befall any of Gods people.</p>
+            <p>Queſtionleſs his impla<g ref="char:EOLhyphen"/>cable malice doth drive him on with utmoſt fury, to endeavour the deſtru<g ref="char:EOLhyphen"/>ction of Gods people, and therefore it is not to be doubted, but that if he can<g ref="char:EOLhyphen"/>not turn them out of the way to happineſs, yet he will make it as uncomfor<g ref="char:EOLhyphen"/>table to them as he can. If he cannot ſeparate them from the love of God in <hi>Chriſt Jeſus,</hi> yet he will in<g ref="char:EOLhyphen"/>terpoſe
+<pb n="43" facs="tcp:97750:22"/>betwixt their ſouls and the light of Gods countenance, as much as he can.</p>
+            <p>This he attempteth ei<g ref="char:EOLhyphen"/>ther by temptation, where<g ref="char:EOLhyphen"/>by he endeavoureth to draw them to the com<g ref="char:EOLhyphen"/>miſſion of thoſe ſins, where<g ref="char:EOLhyphen"/>by he knows that God will be provoked to with<g ref="char:EOLhyphen"/>draw his comforts from them; or elſe by caſting in ſuſpicions, and blowing upon the fuel of their own home-bred miſconceived jealouſies concerning their ſtate, that thereby he may bring them to put from them thoſe comforts, that do of right belong to them,
+<pb n="44" facs="tcp:97750:23"/>and are held out by God in his word to them.</p>
+            <p n="3">3. But is there any evil in the City, and the Lord hath not done it? Surely in theſe, as well as in all other afflictions, God alſo hath his hand, though in a far different kind from our ſelves, and the Devil we fooliſhly, the Devil ma<g ref="char:EOLhyphen"/>liciouſly, but God moſt righteouſly, and wiſely, yea, and compaſſionately too. Yet may we for the moſt part thank our ſelves for Gods having any hand in our diſcomforts, ſo far forth as they are evil and afflictive; for <hi>he doth not willingly grieve the
+<pb n="45" facs="tcp:97750:23"/>children of men;</hi> but, we by our ſecurity, preſum<g ref="char:EOLhyphen"/>ption, ſloth, worldlineſs, or ſome other particular ſin, do provoke God to hide his face from us, and to let looſe our enemies upon us, yea and to de<g ref="char:EOLhyphen"/>liver us up to our own jealouſies, and ſuſpicions to be our tormentors; and then no wonder if we be troubled, untill we return to meet the living ſpring of our comforts again.</p>
+         </div>
+         <div n="5" type="section">
+            <pb n="46" facs="tcp:97750:24"/>
+            <head>SECT. V. <hi>Of the connexion be<g ref="char:EOLhyphen"/>tween grace, and comfort.</hi>
+            </head>
+            <p>I ſhall now paſs on to<g ref="char:EOLhyphen"/>wards the remedy of theſe evils, and ſo to make enquiry after that true comfort which all belie<g ref="char:EOLhyphen"/>vers deſire, but not many attain unto, at leaſt in that degree and mea<g ref="char:EOLhyphen"/>ſure which they might, were it not for ſome or o<g ref="char:EOLhyphen"/>ther of the forementioned hindrances. In order here<g ref="char:EOLhyphen"/>unto I ſhall lay down ſome preparatory propoſitions,
+<pb n="47" facs="tcp:97750:24"/>concerning the connexion between grace, &amp; comfort, the want of knowing, or believing whereof is ſome<g ref="char:EOLhyphen"/>times matter of ill conſe<g ref="char:EOLhyphen"/>quence to the people of God, in reſpect of their comfort.</p>
+            <p n="1">1. Prop. Whereſoever there is true grace, in how weak and ſmall a de<g ref="char:EOLhyphen"/>gree ſoever it be, there is a foundation for ſolid com<g ref="char:EOLhyphen"/>fort, yea even for aſſurance, and the comforts that do naturally flow there from.</p>
+            <p>Many have proved ſuf<g ref="char:EOLhyphen"/>ficiently againſt the <hi>Armi<g ref="char:EOLhyphen"/>nians,</hi> that whoſoever hath true grace, ſhall certainly be ſaved, becauſe it is im<g ref="char:EOLhyphen"/>poſſible
+<pb n="48" facs="tcp:97750:25"/>(reſpecting the de<g ref="char:EOLhyphen"/>crees and promiſes) that a truely ſanctifyed perſon ſhould totally and finally fall from grace, and ſo be damned. This is ſaid, not of any certain degree of grace, but of the truth of grace, how ſmall ſoever the degree be; for grace in the ſmalleſt degree is as truely grace as in the greateſt degree. Now the conſequence is unde<g ref="char:EOLhyphen"/>niably good, that if they, who have the leaſt degree of true ſaving grace, ſhall certainly be ſaved, then the leaſt degree of that grace is a foundation in it ſelf, ſufficient for com<g ref="char:EOLhyphen"/>fort
+<pb n="49" facs="tcp:97750:25"/>and aſſurance; For aſſurance of ſalva<g ref="char:EOLhyphen"/>tion, and the comforts thence ariſing do naturally flow from the aſſured knowledge of the truth of grace, and there is none that hath true grace, in what degree ſoever, but he is in a capacity of knowing that he hath that grace. I know that the comfort of aſſurance is not an ordinary companion of the weakeſt grace: how<g ref="char:EOLhyphen"/>ever ſometimes at firſt converſion, when we may reaſonably ſuppoſe grace to be in the ſmalleſt de<g ref="char:EOLhyphen"/>gree, it pleaſes God to make the infuſion of grace
+<pb n="50" facs="tcp:97750:26"/>ſo manifeſt, to the conver<g ref="char:EOLhyphen"/>ted perſon, as that they have thereby the comfor<g ref="char:EOLhyphen"/>table aſſurance of their ſal<g ref="char:EOLhyphen"/>vation; although that aſ<g ref="char:EOLhyphen"/>ſurance do continue ſome<g ref="char:EOLhyphen"/>times but a very ſhort while, and is ſeldom of long continuance before it be darkened again by temptation. However if there were not a ſufficient foundation for aſſurance, there could not be any true comfort upon that account, no not for a moment.</p>
+            <p n="2">2. Prop. The ſmaller degrees of grace are very hardly diſcernable. This comes to paſs in ſome by reaſon of the many luſts
+<pb n="51" facs="tcp:97750:26"/>&amp; corruptions, which upon the firſt entrance of grace are not all at once expel<g ref="char:EOLhyphen"/>led, or ſubdued, but con<g ref="char:EOLhyphen"/>tinue oppoſing themſelves, and making head againſt grace, for the rooting of it out again; which though they cannot effect, yet do they often prevail againſt grace (yet in its infancy) and by their ſtrength and multitude do ſo over<g ref="char:EOLhyphen"/>whelm, and as it were, bury that ſmall grace, that the poor ſoul is not able certainly to ſay whether there be any ſuch thing or no.</p>
+            <p>In other ſome, a good na<g ref="char:EOLhyphen"/>turall diſpoſition, ſpecially
+<pb n="52" facs="tcp:97750:27"/>if meliorated, and mended by civill or religious e<g ref="char:EOLhyphen"/>ducation, doth bear ſo neer a reſemblance to true grace, that it is no eaſie matter to diſcern the one from the other; ſo that the ſincere ſoul being ever ſuſpicious of it ſelf, doth not dare to conclude that there is any thing at all better in it than morall vertue. And then, beſide all this, the grand enemy of our comfort and ſalva<g ref="char:EOLhyphen"/>tion will be ſure to take advantage of theſe, and all other occaſions of ſuſ<g ref="char:EOLhyphen"/>picion, and by his tempta<g ref="char:EOLhyphen"/>tions and ſuggeſtions to improve them to the ut<g ref="char:EOLhyphen"/>moſt
+<pb n="53" facs="tcp:97750:27"/>diſadvantage to the ſoul, whereby (if poſſible) to hinder it from the com<g ref="char:EOLhyphen"/>fortable evidence of the truth of Grace.</p>
+            <p n="3">3. Prop. There is no de<g ref="char:EOLhyphen"/>gree of grace ſo large, e<g ref="char:EOLhyphen"/>vident, and conſpicuous, but that it may ſometimes diſappear: Even the Sun it ſelf hath ſuffered an E<g ref="char:EOLhyphen"/>clipſe, when the Sun of righteouſneſſe in his de<g ref="char:EOLhyphen"/>ſertion cryed out, <hi>my God my God, why haſt thou forſaken me?</hi> How much leſs then can any of the ſtars, though of the firſt and greateſt magnitude, be ſecure from being ob<g ref="char:EOLhyphen"/>ſcured ſometimes by a
+<pb n="54" facs="tcp:97750:28"/>thick cloud? Great graces do not abſolutely ſecure the owners thereof from great falls, and no wonder then if great falls bring an Eclipſe upon greateſt gra<g ref="char:EOLhyphen"/>ces, and ſo obſcure the eleareſt evidences, and brighteſt comforts, that might flow from them. Remember <hi>Adam, Noah, Lot, David, Peter, &amp;c.</hi> and let him that ſtands take heed leſt he fall; and when thy mountain doth ſtand ſtrongeſt, know that poſſibly God may hide his face, and leave thee under the power of troubles.</p>
+            <p>Theſe three propo<g ref="char:EOLhyphen"/>ſitions I have laid down
+<pb n="55" facs="tcp:97750:28"/>as a ground work where<g ref="char:EOLhyphen"/>upon to build, and they are uſeful to the pro<g ref="char:EOLhyphen"/>duction of theſe three <hi>co<g ref="char:EOLhyphen"/>rollaries.</hi>
+            </p>
+            <p n="1">1. That there are none of Gods people excluded from comfort, how weak and ſmall ſoever their graces may be, that none may reject their own mer<g ref="char:EOLhyphen"/>cies, and ſay, comfort be<g ref="char:EOLhyphen"/>longs not to me, becauſe I have not yet attained to ſuch a degree of grace: for<g ref="char:EOLhyphen"/>much as every child of God is, though not equal<g ref="char:EOLhyphen"/>ly capable, yet capable of equall comforts with o<g ref="char:EOLhyphen"/>thers, the weakeſt with the ſtrongeſt, and the
+<pb n="56" facs="tcp:97750:29"/>middle ſize with both.</p>
+            <p>Yea, God is pleaſed ſometimes to impart thoſe comforts to infant-grace, which he may deny to o<g ref="char:EOLhyphen"/>thers throughout their whole courſe, though they may arrive to good at<g ref="char:EOLhyphen"/>tainments in grace; unto whom that ſpeech of <hi>Chriſt</hi> may fitly be ap<g ref="char:EOLhyphen"/>plyed, that <hi>the firſt are laſt, and the laſt are firſt.</hi>
+            </p>
+            <p n="2">2. That degree of grace which conſtitutes the middle ſize, and ſo in<g ref="char:EOLhyphen"/>cludes the generality of true Chriſtians, though in it ſelf it render perſons more capable of ſolid com<g ref="char:EOLhyphen"/>fort
+<pb n="57" facs="tcp:97750:29"/>than the former, yet is more liable to fears, doubts, and troubles, than any other; which will not ſeem ſtrange, if we conſi<g ref="char:EOLhyphen"/>der this threefold ground thereof.</p>
+            <p n="1">1. That, that peace, &amp; com<g ref="char:EOLhyphen"/>fort which they have, is commonly rather negative than poſitive, conſiſting rather in the abſence of trouble, than in the ſure<g ref="char:EOLhyphen"/>neſs, and ſolidity, of the grounds, whereupon they build. For, alas! it is too common even with thoſe that have true grace to content themſelves with common probabilities, and ſuch hopes as ſpring
+<pb n="58" facs="tcp:97750:30"/>there-from, without fre<g ref="char:EOLhyphen"/>quent renewing the in<g ref="char:EOLhyphen"/>grafting, and juſtifying acts of faith, or rifling into their evidences to find out thoſe of them that are un<g ref="char:EOLhyphen"/>erring, and will not fail them when they come to a pinch: Like a man that hath been long in poſſeſ<g ref="char:EOLhyphen"/>ſion of an eſtate, though he have good writings for it in his box, yet contents himſelf with his preſent quiet poſſeſſion, and is not able on the ſudden to prove the firmneſs and goodneſs of his title, when it comes to be queſtio<g ref="char:EOLhyphen"/>ned.</p>
+            <p n="2">2. Hence it comes to
+<pb n="59" facs="tcp:97750:30"/>paſs that when their peace comes to be diſturbed, they are not able ſo clearly to diſcern and make out the truth of their graces, as to ſhut out and repel the aſſault of temptations and fears. They have then their indubitable eviden<g ref="char:EOLhyphen"/>ces to ſeek, and as it often falls out in other things, when we are moſt in haſt, we leaſt of all know where to ſeek or find the thing we want; ſo when the ſudden onſet of tempta<g ref="char:EOLhyphen"/>tions conſtrains us to make good our title to <hi>Chriſt,</hi> and the love and fa<g ref="char:EOLhyphen"/>vour of God, in that hur<g ref="char:EOLhyphen"/>ley burley and confuſion,
+<pb n="60" facs="tcp:97750:31"/>which is raiſed in the ſoul thereby, we know no more for the preſent how to make good our title, than if we never had any.</p>
+            <p n="3">3. We may yet aſſign this higher reaſon, that it plea<g ref="char:EOLhyphen"/>ſeth God to reſtrain Satan from aſſaulting the infant-grace of his little ones, that they may not be diſcoura<g ref="char:EOLhyphen"/>ged from a way &amp; courſe of holineſs, before they are hardened and habituated thereunto. As a Captain will not ſet his freſh-wa<g ref="char:EOLhyphen"/>ter Souldiers to bear the brunt of the day, leſt he diſcourage them for ever after. But when God hath for a certain time trained
+<pb n="61" facs="tcp:97750:31"/>up his ſervants in their poſtures of grace and holi<g ref="char:EOLhyphen"/>neſs, he then leads them forth to the tryall, to ſee how they can endure the ſhock of temptations.</p>
+            <p n="3">3. None can promiſe themſelves an uninterrupt<g ref="char:EOLhyphen"/>ed courſe of peace &amp; com<g ref="char:EOLhyphen"/>fort, how high degrees of grace ſoever they may poſſibly have attained un<g ref="char:EOLhyphen"/>to. Nay, many times God ſuffers his ſtrongeſt ſer<g ref="char:EOLhyphen"/>vants to encounter with the ſtrongeſt interruptions; ſo that although there be no true comfort, nor can be, where there is no true grace, yet the ſeverall de<g ref="char:EOLhyphen"/>grees of comfort do not
+<pb n="62" facs="tcp:97750:32"/>neceſſarily and conſtantly accompany and flow from proportionable degrees of grace.</p>
+         </div>
+         <div n="6" type="section">
+            <head>SECT. VI. <hi>The Sum of what re<g ref="char:EOLhyphen"/>mains to be done.</hi>
+            </head>
+            <p>HAving now laid the ground-work, I paſs on to the ſuperſtructure: yet I muſt premiſe thus much, that thoſe troubles and diſquietments of mind, which many times befall the people of God, are for the moſt part grounded
+<pb n="63" facs="tcp:97750:32"/>upon ſome miſtakes and miſapprehenſions, which if once rectifyed, there would need but little, if any thing more, to reduce them to a quiet and com<g ref="char:EOLhyphen"/>fortable ſtate and poſture of ſpirit. Therefore the remainder of my preſent taſk will ſtand in two at<g ref="char:EOLhyphen"/>tempts:</p>
+            <p n="1">1. To lay down ſome propoſitions, for the recti<g ref="char:EOLhyphen"/>fying of thoſe miſtakes, and the anſwering of all objections that are grounded thereupon.</p>
+            <p n="2">2. To give ſome plain, eaſie, and brief directions for the attaining of true, ſolid peace and comfort,
+<pb n="64" facs="tcp:97750:33"/>ſo grounded, as that it may be leſs liable to the common aſſaults, or more eaſily recoverable, if at a<g ref="char:EOLhyphen"/>ny time it be overclou<g ref="char:EOLhyphen"/>ded.</p>
+         </div>
+         <div n="7" type="section">
+            <head>SECT. VII. <hi>Of converſion.</hi>
+            </head>
+            <p>I Shall begin with thoſe propoſitions, which re<g ref="char:EOLhyphen"/>late to converſion, be<g ref="char:EOLhyphen"/>cauſe it is the firſt ſaving work upon the ſoul; and therefore ſome ſound be<g ref="char:EOLhyphen"/>lievers being in the dark concerning that firſt ne<g ref="char:EOLhyphen"/>ceſſary
+<pb n="65" facs="tcp:97750:33"/>work, they are much tempted to ſuſpect all their evidences of af<g ref="char:EOLhyphen"/>ter-grace.</p>
+            <p>The ſubſtance of this work conſiſts in that reall change, which is wrought in the whole man, where<g ref="char:EOLhyphen"/>by he is turned from ſin and Satan unto God, and is brought out of a ſtate of nature into a ſtate of grace.</p>
+            <p>But thoſe doubts and fears, which ariſe many times in the hearts of Gods children, are not a<g ref="char:EOLhyphen"/>bout the nature, and no<g ref="char:EOLhyphen"/>tion of converſion, but ſpring from miſtakes a<g ref="char:EOLhyphen"/>bout the circumſtances
+<pb n="66" facs="tcp:97750:34"/>thereof; concerning which therefore I ſhall lay down theſe following propoſiti<g ref="char:EOLhyphen"/>ons.</p>
+            <p n="1">1. Prop. A man may be converted, or in a ſtate of grace, yet not know it. And this either,</p>
+            <p n="1">1. For ſome time im<g ref="char:EOLhyphen"/>mediately after conver<g ref="char:EOLhyphen"/>ſion: as in all probability an infant, for ſome time af<g ref="char:EOLhyphen"/>ter its birth, doth not put forth any of thoſe reflex acts, whereby it judgeth it ſelf to be alive. Though I may not ſay, that a new convert is, like an infant, uncapable of exerting ſuch reflex acts, yet certainly many do not, or if they
+<pb n="67" facs="tcp:97750:34"/>make attempts, yet ſome<g ref="char:EOLhyphen"/>times the reality of their converſion is too obſcure for them to diſcern, in that infant-ſtate.</p>
+            <p n="2">2. This alſo may be the condition of a true belie<g ref="char:EOLhyphen"/>ver in his adult or grown ſtate, to be ignorant of his converſion, and that either from the beginning of the work of grace in his heart, or by ſome after-occaſio<g ref="char:EOLhyphen"/>nall darknings. I do not mean, that a man may know he hath true grace, and yet not know whether ever he were converted or no, but taking conver<g ref="char:EOLhyphen"/>ſion for the firſt entrance into a ſtate of true grace,
+<pb n="68" facs="tcp:97750:35"/>whoſoever doubts or is ig<g ref="char:EOLhyphen"/>norant of his being in a ſtate of grace, by what means ſoever it comes to paſs, muſt needs alſo be equally in doubt of his converſion; except with the <hi>Arminians, Socinians,</hi> &amp;c. he think that true grace may be totally loſt: which is an error of very dangerous conſequence, and therefore of neceſſity to be rectifyed.</p>
+            <p n="2">2. Prop. A man may be in a ſtate of grace, and yet not know the time of his converſion: nay, he may have good evidence that he is in a ſtate of grace, and from thence
+<pb n="69" facs="tcp:97750:35"/>conclude, that for certain there was a particular time of his converſion, and yet not know when that time was.</p>
+            <p>Indeed when he is once come to that concluſion, that he is in a ſtate of grace, he may probably conclude that ſuch a par<g ref="char:EOLhyphen"/>ticular time was the time of his paſſing from death to life, but yet ſome can<g ref="char:EOLhyphen"/>not go ſo far in conjectu<g ref="char:EOLhyphen"/>ring at the particular time, that work having been wrought in them while they were very young; or otherwiſe wrought by ſuch gentle and graduall means (as good education,
+<pb n="70" facs="tcp:97750:36"/>or the like) that it was not poſſible for them al<g ref="char:EOLhyphen"/>moſt, to diſcern when they paſſed from the utmoſt bounds of common grace, into a ſtate of ſpeciall grace. And this I take to be a common caſe among many believers now a<g ref="char:EOLhyphen"/>days.</p>
+            <p n="3">3. Prop. That change which is wrought in con<g ref="char:EOLhyphen"/>verſion is more in the in<g ref="char:EOLhyphen"/>ward, than in the outward man. I ſpeak now in re<g ref="char:EOLhyphen"/>ſpect of reality, and not in reſpect of outward appea<g ref="char:EOLhyphen"/>rance; although it be true alſo, that many times that change which is wrought by converſion hath ſo great
+<pb n="71" facs="tcp:97750:36"/>an influence upon the out<g ref="char:EOLhyphen"/>ward man, in point of action &amp; converſation, that the change is very manifeſt and viſible: yet I ſay that the radicall and principall change is in the inward man.</p>
+            <p>This is manifeſt by the word, by which repen<g ref="char:EOLhyphen"/>tance is generally expreſt in the new Teſtament, a a member of converſion: as in that re<g ref="char:EOLhyphen"/>markable con<g ref="char:EOLhyphen"/>junction of re<g ref="char:EOLhyphen"/>pentance,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and converſion in <hi>Act.</hi> 3.19.</p>
+            <p>
+               <hi>Repent and be converted, that your ſins may be blot<g ref="char:EOLhyphen"/>ted out.</hi> The word which
+<pb n="72" facs="tcp:97750:37"/>we tranſlate [repent] ſig<g ref="char:EOLhyphen"/>nifyes a changing of the mind, which is the primary act of repentance, and part of converſion; al<g ref="char:EOLhyphen"/>though ſecondarily, there be divers other things that pertain thereto.</p>
+            <p>This is alſo manifeſt in that other expreſſion, whereby <hi>Chriſt</hi> recom<g ref="char:EOLhyphen"/>mended the ſame thing to <hi>Nicodemus,</hi> under the name of regeneration, or a new birth. For it is evident that the body is not born again (which was <hi>Nico<g ref="char:EOLhyphen"/>demus's</hi> groſſe apprehen<g ref="char:EOLhyphen"/>ſion at the firſt) neither is the ſoul, as to the being or ſubſtance thereof born
+<pb n="73" facs="tcp:97750:37"/>again, yet no doubt but ſome very great change and remarkable alteration is noted to us by ſuch an expreſſion.</p>
+            <p>It remains therefore that this grand alteration muſt needs be in the morall principles, diſpoſitions, and affections of the ſoul, which alſo hath a ſuitable influence upon the exter<g ref="char:EOLhyphen"/>nall actions and conver<g ref="char:EOLhyphen"/>ſation, producing a greater or leſſer change in them, according as there is need, in reſpect of the greater or leſſer preceeding depra<g ref="char:EOLhyphen"/>vation of them, by cuſtom in ſinning, or otherwiſe.</p>
+            <p n="4">4. Prop. There may be
+<pb n="74" facs="tcp:97750:38"/>a great change wrought in the outward man, with<g ref="char:EOLhyphen"/>out true converſion.</p>
+            <p>Many faults may be re<g ref="char:EOLhyphen"/>formed, many ſins forſaken, many duties taken up, with a profeſſion of religion, and yet ſuch an one come ſhort of true con<g ref="char:EOLhyphen"/>verſion; becauſe all this may be done upon ſuch grounds and reaſons as are far inferiour to that of true converſion; ſuch as are carnall fear or hope, gripes of conſcience, the outward inconveniences and diſcommodities of their ſinful courſes, as di<g ref="char:EOLhyphen"/>ſeaſes, poverty, diſgrace, and the like.</p>
+            <pb n="75" facs="tcp:97750:38"/>
+            <p n="5">5. Prop. On the other ſide, there may be <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> converſion where the change of the outward man is but ſmall. A good diſpoſition may reſtrain a man much from the com<g ref="char:EOLhyphen"/>miſſion of many groſs ſins, and the fear of penall laws may do ſomething; but religious education, or an hypocritical profeſſion of religion may carry men far, not only in avoiding all open ſins, but alſo in put<g ref="char:EOLhyphen"/>ting them forward to the performance of all viſible duties, yea, and of many ſecret duties alſo, ſo that there may be little want<g ref="char:EOLhyphen"/>ing to the making up of
+<pb n="76" facs="tcp:97750:39"/>the whole carcaſſe, and outſide of religion. Yea, they may go ſo far herein, that their outward con<g ref="char:EOLhyphen"/>verſation may be more commendably religious, than the converſations of ſome truly converted per<g ref="char:EOLhyphen"/>ſons: there may be nothing manifeſtly wanting, but an inward principle of ho<g ref="char:EOLhyphen"/>lineſs, to make their actions and converſations truly holy. Then when it once pleaſeth God, by his re<g ref="char:EOLhyphen"/>newing grace to convert them, <hi>i. e.</hi> to work in them an inward principle of holineſs, this makes lit<g ref="char:EOLhyphen"/>tle, or no alteration in the outward man, but only
+<pb n="77" facs="tcp:97750:39"/>actuates and informs their wonted actions and con<g ref="char:EOLhyphen"/>verſations anew, where<g ref="char:EOLhyphen"/>by that which before was evil and diſpleaſing to God, not in the matter of it, but in the principle from whence it flowed, now becomes acceptable to God, and truly holy. As an army of rebels may be good Souldiers and have good military diſci<g ref="char:EOLhyphen"/>pline among them, but their only fault is, that they follow the conduct of a rebel general: and theſe only by accepting a new General, and owning their true Lord and King may become ſaithful Soul<g ref="char:EOLhyphen"/>diers
+<pb n="78" facs="tcp:97750:40"/>and loyall ſubjects, without new moulding their army, or changing ar<g ref="char:EOLhyphen"/>mour or diſcipline.</p>
+            <p>When God firſt formed man out of the earth, he faſhioned his body com<g ref="char:EOLhyphen"/>pleat in all the parts and proportions thereof, yet was it not a man while it was without a ſoul, but when God breathed the the breath of life into it, there was no alteration made in the body, but by the only addition of a ſoul it became a living man. In like manner by the com<g ref="char:EOLhyphen"/>mon workings of the ſpirit there may be the outward form and lineaments of a
+<pb n="79" facs="tcp:97750:40"/>Chriſtian, without the truth and life of Chriſti<g ref="char:EOLhyphen"/>anity, till the ſame ſpirit by his ſpeciall operation actuate that carcaſſe of Chriſtianity with a new inward principle of ſpiri<g ref="char:EOLhyphen"/>tuall life and holineſs; and then there is a Chriſt<g ref="char:EOLhyphen"/>ian indeed, although little alteration appear in the outward converſation and viſible part of Chriſtianity.</p>
+            <p n="6">6. Prop. If any through evill education, example, cuſtom, diſpoſition, or groſſe ignorance, have li<g ref="char:EOLhyphen"/>ved a looſe, vitious, de<g ref="char:EOLhyphen"/>bauched, profane life, have been a contemner or op<g ref="char:EOLhyphen"/>poſer of the ways of God,
+<pb n="80" facs="tcp:97750:41"/>or a neglecter of the com<g ref="char:EOLhyphen"/>mon known duties of Chriſtianity, (I ſay) if e<g ref="char:EOLhyphen"/>ver ſuch an one be converted, certainly they paſs under a very great change, not only inwardly in their mind and affecti<g ref="char:EOLhyphen"/>ons, but alſo outwardly in all the viſible parts of their converſations. As is to be ſeen in the inſtances of <hi>Zacheus, Mary Magda<g ref="char:EOLhyphen"/>len, Paul,</hi> and the <hi>Corin<g ref="char:EOLhyphen"/>thians,</hi> 1 <hi>Cor.</hi> 6.9, 10, 11.</p>
+            <p>I have purpoſely for<g ref="char:EOLhyphen"/>born any formall anſwer to objections, becauſe whatever ſcruples do or<g ref="char:EOLhyphen"/>dinarily ariſe in the doubt<g ref="char:EOLhyphen"/>ing
+<pb n="81" facs="tcp:97750:41"/>ſoul concerning this buſineſs of converſion, the anſwer to them, I think, may be eaſily gathered, out of the foregoing pro<g ref="char:EOLhyphen"/>poſitions, and therefore I may ſave my ſelf that labour. As for inſtance,</p>
+            <p>If any one think that if ever they were truly con<g ref="char:EOLhyphen"/>verted, they muſt needs know the time or at leaſt the thing it ſelf, and are therefore ready to con<g ref="char:EOLhyphen"/>clude, that the work was never wrought in them, becauſe they know it not: to this they may have ſatisfaction from the firſt, and ſecond propoſitions. Or if they doubt of their
+<pb n="82" facs="tcp:97750:42"/>converſion, becauſe they never knew of any ſuch re<g ref="char:EOLhyphen"/>markable change in them<g ref="char:EOLhyphen"/>ſelves, as converſion is or<g ref="char:EOLhyphen"/>dinary ſuppoſed to im<g ref="char:EOLhyphen"/>port: to this they may re<g ref="char:EOLhyphen"/>ceive an anſwer from the fifth propoſition; and ſo of others. And this me<g ref="char:EOLhyphen"/>thod I have thought moſt convenient, and therefore ſhall obſerve it in the fol<g ref="char:EOLhyphen"/>lowing part of this diſ<g ref="char:EOLhyphen"/>courſe.</p>
+         </div>
+         <div n="8" type="section">
+            <pb n="83" facs="tcp:97750:42"/>
+            <head>SECT. VIII. <hi>Of ſorrow for ſin.</hi>
+            </head>
+            <p n="1">1. Prop. TRue godly ſorrow for ſin may be occaſioned at firſt by ſomething elſe than the ſenſe of the evil of ſin in its own nature. Sickneſs, loſſes, diſgrace, and the like, may be the firſt exciting cauſe of ſor<g ref="char:EOLhyphen"/>row; but by theſe ſtreams of affliction God may, and many times doth, (by the conduct of his word) lead the ſinner to the fountain of ſin; ſo as that which at firſt appeared evil and hateful to him only in the
+<pb n="84" facs="tcp:97750:43"/>ſad effects thereof, may now at laſt be found by him to be much more e<g ref="char:EOLhyphen"/>vill and loathſome in its own nature, and in thoſe more dreadful effects which it produceth in ſpi<g ref="char:EOLhyphen"/>rituall reſpects; as, the loſſe of Gods favour, the debaſing of the ſoul here, and the damnation both of ſoul and body hereafter. Thus that ſorrow which at firſt was but carnall, may by this means come to be ſwallowed up of that which is more ſpirituall, and ſo become an holy, and godly ſorrow. Yet it may be that all carnall ſorrow may not hereby be
+<pb n="85" facs="tcp:97750:43"/>ſo ſwallowed up, as that nothing thereof ſhall re<g ref="char:EOLhyphen"/>main: ſo that the mourn<g ref="char:EOLhyphen"/>ing ſinner is not therefore to judge all his ſorrow to be carnall, becauſe there are ſome mixtures of car<g ref="char:EOLhyphen"/>nality in it; foraſmuch as this grace, as well as all other graces, is but im<g ref="char:EOLhyphen"/>perfect in this our ſtate of fleſh and imperfection; but rather judge it to be true, becauſe there is a manifeſt appearance of ſome mixture of godly ſor<g ref="char:EOLhyphen"/>row. Yet muſt you ſtrive dayly to refine it from the droſſe of carnality, it be<g ref="char:EOLhyphen"/>ing the perfection of a Chriſtian on this ſide hea<g ref="char:EOLhyphen"/>ven,
+<pb n="86" facs="tcp:97750:44"/>to be dayly perfect<g ref="char:EOLhyphen"/>ing by degrees thoſe graces whoſe perfection (or abolition) is reſerved for heaven.</p>
+            <p n="2">2. Prop. There is no ſorrow of what nature, or in what degree ſoever, that beares a legal propor<g ref="char:EOLhyphen"/>tion to any, though the leaſt, ſin.</p>
+            <p>By a legall proportion, I mean, that which the law requires, which is no other, nor leſs than will make ſatisfaction for the breach of the law: ſo that if any kind or degree of ſorrow bear a legall pro<g ref="char:EOLhyphen"/>portion to any ſin, it is ſatisfactory to juſtice, and
+<pb n="87" facs="tcp:97750:44"/>ſo meritorious of pardon. Whether therefore any one ſhould ſuſpend their comfort upon ſuch a kind or proportion of ſorrow for ſin, may without diffi<g ref="char:EOLhyphen"/>culty be rightly deter<g ref="char:EOLhyphen"/>mined by any one but a <hi>Papiſt</hi> or a like principled. So then, while the trou<g ref="char:EOLhyphen"/>bled ſoul rakes in its own ſores to find a ſorrow proportionable to the ſins they ſtand guilty of, they too much juſtify that doctrine, which in their principles they will moſt fearleſly deny; and while through this error they ſeek righteouſly by the law, they do unwittingly
+<pb n="88" facs="tcp:97750:45"/>keep themſelves under the curſe, at leaſt as to their own ſenſe, and loſe the benefit of the Goſpel, at leaſt as to the preſent com<g ref="char:EOLhyphen"/>fort of it. <hi>Gal.</hi> 3.10, 21.</p>
+            <p n="3">3. Prop. Every degree of true godly ſorrow bears a Goſpel proportion to e<g ref="char:EOLhyphen"/>very ſin: that is, it is that ſorrow which the Goſpel requires, not by way of ſatisfaction, as the law doth, but to put the ſinner into a preparative capacity to receive <hi>Chriſt</hi> and pardon through him. For this is not the differ<g ref="char:EOLhyphen"/>ence between the law and the Goſpel in requiring the ſame thing; that the
+<pb n="89" facs="tcp:97750:45"/>law requires a greater de<g ref="char:EOLhyphen"/>gree, &amp; the Goſpel is con<g ref="char:EOLhyphen"/>tent with a leſs degree; but the true difference conſiſts in this, that what the law requires, it re<g ref="char:EOLhyphen"/>quires in perfection, in or<g ref="char:EOLhyphen"/>der to juſtification im<g ref="char:EOLhyphen"/>mediately; but what the Goſpel requires, it requires in ſincerity with reference to <hi>Chriſt</hi> and life by him.</p>
+            <p>But what then? Is the leaſt degree of this or any other grace in ſincerity and truth, the moſt that the Goſpel requires?</p>
+            <p>No verily: for the Goſpel cal s for perfection, yea and a greater perfection
+<pb n="90" facs="tcp:97750:46"/>than the law it ſelf doth; but this is the indulgence of the Goſpel, that the firſt and leaſt degree of grace in truth and ſin<g ref="char:EOLhyphen"/>cerity, puts the perſon into a reſpective capacity, of partaking of the promiſes and benefits of the Goſ<g ref="char:EOLhyphen"/>pel, it allowing him and requiring him all the re<g ref="char:EOLhyphen"/>mainder of the days of his life, to be perfecting his gra<g ref="char:EOLhyphen"/>ces, &amp; thereby to be grow<g ref="char:EOLhyphen"/>ing up in <hi>Chriſt,</hi> his head, when he comes to be fully and perfectly united to <hi>Chriſt,</hi> he may in him be perfect in holineſs, and happineſs together.</p>
+            <p n="4">4. Prop. That is true
+<pb n="91" facs="tcp:97750:46"/>ſorrow, which produceth a willingneſs to be deliver<g ref="char:EOLhyphen"/>ed from the power of all ſin: a reall willingneſs, though the fleſh may gain<g ref="char:EOLhyphen"/>ſay and be unwilling. For it is no ſtrange thing for ſuch contradictions to be found in Gods children, ſo long as they have fleſh as well as ſpirit, the fleſh will be luſting againſt the ſpirit as well as the ſpirit againſt the fleſh, <hi>and theſe two are contrary.</hi>
+            </p>
+            <p>I chooſe to note out ſorrow by its effects rather than by deſcribing it in its nature, becauſe it is much more diſcernable in its ef<g ref="char:EOLhyphen"/>fects than in its nature,
+<pb n="92" facs="tcp:97750:47"/>and the truth of it in this effect, as much, if not more than in any other effect thereof.</p>
+            <p n="5">5. Prop. That is godly ſorrow which produceth a ſight of our need of <hi>Chriſt,</hi> and a willingneſs to cloſe with him on the terms of the Goſpel. For whereas the tenour of the Goſpell is comprehended in thoſe two words repent and believe, ſuch a repen<g ref="char:EOLhyphen"/>tance is ſpoken of, as pre<g ref="char:EOLhyphen"/>pares and leads a man to <hi>Jeſus Chriſt,</hi> and that is the repentance which God requires, and in the Goſpel calls for.</p>
+            <p>I need not preciſely di<g ref="char:EOLhyphen"/>ſtinguiſh
+<pb n="93" facs="tcp:97750:47"/>between godly ſorrow and true repen<g ref="char:EOLhyphen"/>tance, which are frequent<g ref="char:EOLhyphen"/>ly uſed as terms of the ſame import in ſcripture, although it do diſtinguiſh them alſo, but ſo as that godly ſorrow doth cer<g ref="char:EOLhyphen"/>tainly produce repentance to ſalvation; and therefore whether mediately or im<g ref="char:EOLhyphen"/>mediately, it matters not; but certainly that ſorrow is according to God and the Goſpel, which prepares the heart to receive <hi>Chriſt</hi> by faith; and then it is eaſie to judge whether that ſorrow for ſin, which brings a man to ſee an abſolute neceſſity of
+<pb n="94" facs="tcp:97750:48"/>
+               <hi>Chriſt,</hi> and produceth a willingneſs to cloſe with him upon the terms of the Goſpel, be a godly ſor<g ref="char:EOLhyphen"/>row or no.</p>
+            <p n="6">6. Prop. The fear of Hell and damnation is no unlawful or ungoſpel in<g ref="char:EOLhyphen"/>gredient of godly ſorrow. It is matter of great perplexity to the ſouls of many of Gods Children to find upon ſerious conſider<g ref="char:EOLhyphen"/>ation, that the fear of being everlaſtingly dam<g ref="char:EOLhyphen"/>ned, hath a great influ<g ref="char:EOLhyphen"/>ence upon that ſorrow for ſin, and fear of ſin<g ref="char:EOLhyphen"/>ning which they really find in themſelves, judging all ſuch ſorrow to be car<g ref="char:EOLhyphen"/>nall,
+<pb n="95" facs="tcp:97750:48"/>becauſe it proceeds not purely from a princi<g ref="char:EOLhyphen"/>ple of love to God. Indeed I cannot but look upon it, at leaſt as a piece of great inconſiderateneſs in ſome, who teach, that god<g ref="char:EOLhyphen"/>ly ſorrow for ſin doth purely reſpect God and his goodneſs, and that, that which reſpecteth the ſafe<g ref="char:EOLhyphen"/>ty of the ſoul from dam<g ref="char:EOLhyphen"/>nation is legall, and carnall; which is a doctrine that is contrary both to the prin<g ref="char:EOLhyphen"/>ciples of nature, and the word of God, and Goſpel of <hi>Jeſus Chriſt.</hi> Whoever thought it unlawfull to fear the plague, ſword, famine, poyſon, or the
+<pb n="96" facs="tcp:97750:49"/>like, upon this very ac<g ref="char:EOLhyphen"/>count, becauſe they are deſtructive to the body? or to ſorrow for thoſe out<g ref="char:EOLhyphen"/>ward evils when preſent, as well as to fear them, when they are yet but im<g ref="char:EOLhyphen"/>minent? and that for the bodies ſake, the being whereof is endangered thereby? And if it be law<g ref="char:EOLhyphen"/>full to fear and grieve, for the ſake of the body, thoſe evils, which threa<g ref="char:EOLhyphen"/>ten the ruine thereof, how much more conſen<g ref="char:EOLhyphen"/>taneous to reaſon is it, to fear and grieve for ſin, and its conſequents, upon the ſouls account, which is thereby endangered to
+<pb n="97" facs="tcp:97750:49"/>be loſt for ever.</p>
+            <p>But to let paſs ſuch ar<g ref="char:EOLhyphen"/>gumentations. Hath not God alſo in his word both permitted and comman<g ref="char:EOLhyphen"/>ded that we ſhould have ſo much reſpect to our own immortal ſouls, as well as to his pleaſure and ho<g ref="char:EOLhyphen"/>nour, as for the ſake of them, and their ſafety to fear ſin, hell, &amp; damnation, yea, and God himſelf too becauſe of his power to deſtroy, <hi>Heb.</hi> 4.1. <hi>Mat.</hi> 10.28. And if to fear ſin, up<g ref="char:EOLhyphen"/>on that account, ſo as to avoid the commiſſion of it, then alſo upon the ſame account to grieve and ſor<g ref="char:EOLhyphen"/>row for ſin, when com<g ref="char:EOLhyphen"/>mitted;
+<pb n="98" facs="tcp:97750:50"/>and if we may fear God becauſe of his power to deſtroy, then may we alſo ſorrow for ſin, through fear of Gods diſ<g ref="char:EOLhyphen"/>pleaſure, and the diſplay<g ref="char:EOLhyphen"/>ing of that his power for the everlaſting deſtruction both of the ſoul and body of the ſinner.</p>
+            <p>I ſay not, but that ſor<g ref="char:EOLhyphen"/>row for ſinners ariſing from a principle of love to God, may be eſteemed the more childlike diſpo<g ref="char:EOLhyphen"/>ſition, and an higher at<g ref="char:EOLhyphen"/>tainment, and therefore to be laboured after: yet this I ſay alſo, that it is not at all alien from the property of a good Son
+<pb n="99" facs="tcp:97750:50"/>to grieve for an offence committed againſt his fa<g ref="char:EOLhyphen"/>ther, for fear of the ef<g ref="char:EOLhyphen"/>fects of his fathers diſ<g ref="char:EOLhyphen"/>pleaſure.</p>
+            <p>Theſe propoſitions may be ſo applyed, as to re<g ref="char:EOLhyphen"/>ſolve all doubts and ſcruples that may ariſe concerning the occaſion, meaſure, truth, or Goſpel rectitude of ſorrow for ſin, whereby it may be diſtin<g ref="char:EOLhyphen"/>guiſhed from legall and carnall, or defective, which are uſually the matter of the troubled ſouls per<g ref="char:EOLhyphen"/>plexities about this point.</p>
+         </div>
+         <div n="9" type="section">
+            <pb n="100" facs="tcp:97750:51"/>
+            <head>SECT. IX. <hi>Of the pardonableneſs of ſin.</hi>
+            </head>
+            <p>AS the aſſurance of the pardon of ſin cannot but be matter of great joy to the people of God, and is that which in all their troubles their hearts pant after; ſo alſo to be aſ<g ref="char:EOLhyphen"/>ſured that their ſins are pardonable, is matter, at leaſt, of negative comfort: But to lye under the ſenſe of ſin as unpardo<g ref="char:EOLhyphen"/>ned, and to apprehend it as unpardonable too, can<g ref="char:EOLhyphen"/>not
+<pb n="101" facs="tcp:97750:51"/>not but be matter of great horrour to the ſoul.</p>
+            <p>But theſe apprehen<g ref="char:EOLhyphen"/>ſions do proceed many times, partly from the vio<g ref="char:EOLhyphen"/>lence of temptation, and partly alſo from ſome mis<g ref="char:EOLhyphen"/>takes about the pardo<g ref="char:EOLhyphen"/>nableneſs of ſin; and there<g ref="char:EOLhyphen"/>fore obviating the one, and removing the other, I ſhall lay down theſe following propoſitions.</p>
+            <p n="1">1. Prop. All ſin how great or ſmall ſoever is unpardonable after death, <hi>i. e.</hi> if it be unpardoned at death. For death doth abſolutely fix every one in that condition, wherein
+<pb n="102" facs="tcp:97750:52"/>they die; ſo that if ſin were then pardoned, it is par<g ref="char:EOLhyphen"/>doned for ever, but if it were then unpardoned, it is not only unpardoned, but alſo unpardonable for ever.</p>
+            <p n="2">2. Prop. All the ſins of an unregenerate perſon are unpardonable, while he is ſuch. But this is not ſuch a fixed unalterable unpardonableneſs as the former, but only in rela<g ref="char:EOLhyphen"/>tion to that ſtate; ſo that thoſe ſins, which to an un<g ref="char:EOLhyphen"/>regenerate perſon are al<g ref="char:EOLhyphen"/>together unpardonable, while he continues in that ſtate, are all pardonable, yea, and actually pardoned,
+<pb n="103" facs="tcp:97750:52"/>as ſoon as ever his ſtate is changed from unrege<g ref="char:EOLhyphen"/>neracy, to regeneracy. Therefore ſaith the A<g ref="char:EOLhyphen"/>poſtle, <hi>Repent and be con<g ref="char:EOLhyphen"/>verted, that your ſins may be blatted out.</hi>
+            </p>
+            <p n="3">3. Prop. All the ſins of every one of Gods chil<g ref="char:EOLhyphen"/>dren are pardonable, by vertue of their ſtate, as be<g ref="char:EOLhyphen"/>ing in <hi>Chriſt,</hi> and ſo recon<g ref="char:EOLhyphen"/>ciled to God; although the actuall application of that pardon be ſuſpended upon their actuall repen<g ref="char:EOLhyphen"/>tance and faith for the moſt part. However all thoſe that are once en<g ref="char:EOLhyphen"/>grafted into <hi>Chriſt</hi> by faith, are ſo provided for
+<pb n="104" facs="tcp:97750:53"/>by him, that as they can<g ref="char:EOLhyphen"/>not ſin any ſin that is in it ſelf unpardonable, ſo neither can they commit any ſin with ſuch circum<g ref="char:EOLhyphen"/>ſtances, as that eventual<g ref="char:EOLhyphen"/>ly it ſhould prove unpar<g ref="char:EOLhyphen"/>donable to them, but ſhall ſooner or later be cer<g ref="char:EOLhyphen"/>tainly pardoned upon their certain performance of the condition of pardon through <hi>Chriſt.</hi>
+            </p>
+            <p n="4">4. Prop. All ſins are in themſelves pardonable, except <hi>the ſin unto death.</hi>
+            </p>
+            <p>For God hath not, by any peremptory decree, made known unto us in his word, ſo foreſtalled the
+<pb n="105" facs="tcp:97750:53"/>pardon of any particular ſin, whether we conſider it in the horridneſs of its nature, or in the hainouſ<g ref="char:EOLhyphen"/>neſs of its circumſtances, but that upon the terms of repentance, and faith, it is pardonable, except that ſin which is called <hi>the ſin unto death.</hi>
+            </p>
+            <p>Of this alſo (I ſuppoſe) we cannot properly ſay, that it is unpardonable, although the perſon guilty thereof ſhould repent and believe; but it is a ſin of that na<g ref="char:EOLhyphen"/>ture, that doth abſolutely bind up the heart of the ſinner from repenting and believing, ſo that his re<g ref="char:EOLhyphen"/>penting and believing are
+<pb n="106" facs="tcp:97750:54"/>as impoſſible as his being pardoned.</p>
+         </div>
+         <div n="10" type="section">
+            <head>SECT. X. <hi>Of the ſin unto death.</hi>
+            </head>
+            <p>I Hinted before, that the troubled ſouls apprehen<g ref="char:EOLhyphen"/>ſions of the unpardo<g ref="char:EOLhyphen"/>nableneſs of their ſins doth ſometimes riſe ſo high, as to an imagination that they have ſinned againſt the Holy-Ghoſt; and then we may eaſily conceive, what unſpeakable hor<g ref="char:EOLhyphen"/>rour is conſequent there<g ref="char:EOLhyphen"/>upon, and how incurable
+<pb n="107" facs="tcp:97750:54"/>this diſtemper muſt needs be, till that conceit be re<g ref="char:EOLhyphen"/>moved; becauſe the ſcrip<g ref="char:EOLhyphen"/>ture hath ſo expreſly ſaid of this ſin, <hi>that it ſhall ne<g ref="char:EOLhyphen"/>ver be forgiven, neither in this world, nor in the world to come.</hi>
+            </p>
+            <p>But what this ſin is? Wherein it doth conſiſt? Whether there be but one, or more of this nature? Whether it be any par<g ref="char:EOLhyphen"/>ticular act? Or whether any ſin may become a ſin unto death, or the ſin a<g ref="char:EOLhyphen"/>gainſt the Holy-Ghoſt, by reaſon of ſuch circum<g ref="char:EOLhyphen"/>ſtances as may attend it? Theſe are matters of con<g ref="char:EOLhyphen"/>troverſie, wherein I will
+<pb n="108" facs="tcp:97750:55"/>not now undertake, to be an umpire between the differing parties; becauſe I ſuppoſe it would little conduce to the healing of that diſtemper, which I have now in hand, in re<g ref="char:EOLhyphen"/>gard that when I have ſaid all I can, theſe things will be matter of contro<g ref="char:EOLhyphen"/>verſie ſtill: and beſides ſomething elſe may be ſaid of this matter which will not be matter of diſpute, and yet may be more effe<g ref="char:EOLhyphen"/>ctuall for curing the fore<g ref="char:EOLhyphen"/>mentioned diſtemper.</p>
+            <p n="1">1. Obſerve therefore that there are but four places found (at leaſt that are commonly taken no<g ref="char:EOLhyphen"/>tice
+<pb n="109" facs="tcp:97750:55"/>of) in the new Teſta<g ref="char:EOLhyphen"/>ment, which make any mention of an unpardo<g ref="char:EOLhyphen"/>nable ſin, two whereof give us only the names without any deſcription, and the other two give us deſcriptions without any names.</p>
+            <p>The firſt of thoſe two places where ſuch a ſin is named, is <hi>Matt.</hi> 22.31, 32. where it is called, <hi>the blaſ<g ref="char:EOLhyphen"/>phemy againſt the Holy-Ghoſt.</hi>
+            </p>
+            <p>The other place is 1 <hi>Joh.</hi> 5.16. where it is called, <hi>the ſinne unto death.</hi>
+            </p>
+            <p>Whether theſe two names expreſs to us one and the ſame thing, it mat<g ref="char:EOLhyphen"/>ters
+<pb n="110" facs="tcp:97750:56"/>nothing to the preſent purpoſe (though I encline to think they are but the ſame) but this is out of queſtion that both theſe expreſſions note out to us an unpardonable ſin. For of the firſt <hi>Chriſt</hi> ſaith ex<g ref="char:EOLhyphen"/>preſly, <hi>that it ſhall never be forgiven:</hi> and of the other, and it is implyed in the very name, that it ob<g ref="char:EOLhyphen"/>ligeth the ſinner inevita<g ref="char:EOLhyphen"/>bly to death.</p>
+            <p>Yet in theſe places there are no clear deſcri<g ref="char:EOLhyphen"/>ptions of the ſin ſo named although in the firſt, the occaſion of <hi>Chriſts</hi> ſpeech may give ſome hint what his meaning is, but not
+<pb n="111" facs="tcp:97750:56"/>without ſome obſcuri<g ref="char:EOLhyphen"/>ty.</p>
+            <p>But if the attributing of thoſe miracles which <hi>Chriſt</hi> did by the power of the Holy-Ghoſt which he had without meaſure, to a Diabolical art or power, be that ſin (as ſeems moſt plain from the place) then I ſuppoſe there will hardly be any troubled ſoul found, which can with any ſhew of truth, charge this ſin upon it ſelf.</p>
+            <p n="2">2. But if this fact of the <hi>Scribes</hi> and <hi>Phariſees</hi> for which <hi>Chriſt</hi> chargeth them with the Blaſphemy againſt the Holy-Ghoſt, be but one particular branch
+<pb n="112" facs="tcp:97750:57"/>of the ſin againſt the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, we ſhall hardly know what other branches fall under this head, except we find them in <hi>Heb.</hi> 4.5, 6. and <hi>Heb.</hi> 10.26, 29. which are thoſe other two places, wherein we find an unpar<g ref="char:EOLhyphen"/>donable ſin deſcribed with<g ref="char:EOLhyphen"/>out any ſpeciall name.</p>
+            <p>And indeed it is the recei<g ref="char:EOLhyphen"/>ved opinion, that theſe places do deſcribe to us the ſin againſt the Holy-Ghoſt, which wants not its probability, becauſe it is apparent that theſe places deſcribe to us an unpar<g ref="char:EOLhyphen"/>donable ſin, and <hi>Chriſt</hi> in the other places ſeems to tell us, that there is no o<g ref="char:EOLhyphen"/>ther
+<pb n="113" facs="tcp:97750:57"/>ſin unpardonable, but only the ſin againſt the Holy-Ghoſt. But however, whether it be the ſin a<g ref="char:EOLhyphen"/>gainſt the Holy-Ghoſt or not, which the Apoſtle deſcribes in thoſe paſſages to the <hi>Hebrews,</hi> yet this I have obſerved, that thoſe who in the trouble of their ſouls do charge themſelves with the commiſſion of the ſin againſt the Holy-Ghoſt, do generally ground, and build their charge upon this notion, that the ſin there deſcri<g ref="char:EOLhyphen"/>bed, is the ſin againſt the Holy-Ghoſt, and they con<g ref="char:EOLhyphen"/>ceive that they have com<g ref="char:EOLhyphen"/>mitted ſome ſins like unto
+<pb n="114" facs="tcp:97750:58"/>thoſe there deſcribed: And therefore it will be moſt pertinent to the caſe in hand, to clear the meaning of thoſe places.</p>
+            <p>It would be but little ſatisfaction to the troubled ſoul to ſay (with ſome) that the Apoſtles <hi>[it is impoſſi<g ref="char:EOLhyphen"/>ble to renew them again to repentance]</hi> doth not ſpeak of an abſolute impoſſibili<g ref="char:EOLhyphen"/>ty, but of a very great diffi<g ref="char:EOLhyphen"/>culty; as when <hi>Chriſt</hi> ſeemed to make it an im<g ref="char:EOLhyphen"/>poſſible thing for a rich man to be ſaved, yet that it was not impoſſible with God.</p>
+            <p>I will not take upon me to diſprove that interpre<g ref="char:EOLhyphen"/>tation,
+<pb n="115" facs="tcp:97750:58"/>but that which will be moſt ſatisfactory, is to ſuppoſe the worſt (as to be ſure the troubled ſoul will doe) and ſo to look upon it as reall impoſſibility for ſuch an one, as the Apoſtle there ſpeaks of, to be re<g ref="char:EOLhyphen"/>newed again to repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>And then I ſhall firſt lay down theſe unqueſtionable propoſitions by way of pre<g ref="char:EOLhyphen"/>miſall.</p>
+            <p n="1">1. Prop. It is certain that thoſe, who have not one<g ref="char:EOLhyphen"/>ly received ſome enlight<g ref="char:EOLhyphen"/>nings, and common graces of the Spirit, but are alſo really and truely ſanctified, may through temptation
+<pb n="116" facs="tcp:97750:59"/>and infirmity, doe thoſe things, which they know to be ſin: as no doubt but <hi>David</hi> knew murder and adultery to be ſins; and Peter could not but know it to be a ſin to deny <hi>Chriſt;</hi> and to common experience will bear witneſſe to the ſame.</p>
+            <p n="2">2. Prop. It is as certain that the will may conſent to the commiſſion of known ſins. <hi>David</hi> was not con<g ref="char:EOLhyphen"/>ſtrained to the commiſſion of the forementioned ſins.</p>
+            <p n="3">3. Prop. And it is no leſs certain that ſuch may be renewed again to repen<g ref="char:EOLhyphen"/>tance: as <hi>David</hi> and <hi>Peter</hi> were. Yet no doubt but
+<pb n="117" facs="tcp:97750:59"/>ſuch circumſtances do ren<g ref="char:EOLhyphen"/>der the ſin more than ordi<g ref="char:EOLhyphen"/>nary hainous.</p>
+            <p>From hence we conclude, that except we make the doctrin all and hiſtorical parts of Scripture abſolute<g ref="char:EOLhyphen"/>ly repugnant, and contrary to each other; yea one doc<g ref="char:EOLhyphen"/>trinall part to another, we may ſafely ſay, that a per<g ref="char:EOLhyphen"/>ſon who hath been en<g ref="char:EOLhyphen"/>lightned, and received the knowledge of the truth, hath taſted the heavenly gift, been made partaker of the Holy-Ghoſt, and taſted of the good word of God, and of the powers of the world to come, may with
+<pb n="118" facs="tcp:97750:60"/>external evident compul<g ref="char:EOLhyphen"/>ſion commit great and known ſins, without being ſealed up under impeniten<g ref="char:EOLhyphen"/>cy, or his ſin neceſſarily acquiring the black and horrid die of unpardona<g ref="char:EOLhyphen"/>bleneſs thereby.</p>
+            <p>But then as touching the meaning of the Apoſtle in the forementioned places, to me it ſeemes plain to any conſiderative and impartiall eye, that the Apoſtle ſpeaks onely of to<g ref="char:EOLhyphen"/>tal <hi>Apoſtacy,</hi> and pro<g ref="char:EOLhyphen"/>nounceth that dreadful doome onely againſt <hi>Apo<g ref="char:EOLhyphen"/>ſtates, i. e.</hi> thoſe who ha<g ref="char:EOLhyphen"/>ving received and owned the truth of the Goſpel of
+<pb n="119" facs="tcp:97750:60"/>
+               <hi>Jeſus Chriſt,</hi> do afterwards without any compulſion, or other ſeeming neceſſity, wholly renounce <hi>Jeſus Chriſt,</hi> and all the truths of the Goſpel, and become open and profeſſed ene<g ref="char:EOLhyphen"/>mies thereunto.</p>
+            <p>This is apparent in the former place, where the Apoſtle ſaith not, <hi>if ſuch ſhall fall into ſin,</hi> but <hi>if ſuch ſhall fall away,</hi> that is, whol<g ref="char:EOLhyphen"/>ly turn away from <hi>Chriſt</hi> and the Goſpel, utterly renouncing them as fables and impoſtures. And for the other place, it is as appa<g ref="char:EOLhyphen"/>rent that the Apoſtle ſpeaks not of every wilful ſin, or ſin againſt knowledge, but
+<pb n="120" facs="tcp:97750:61"/>ſuch wilfull ſinning, as whereby a man declares himſelf an adverſary and profeſſed enemy to <hi>Chriſt</hi> and the Goſpel, as it were, trampling upon <hi>Chriſt,</hi> in that he makes no more ac<g ref="char:EOLhyphen"/>count of his blood, than of the common blood of a ma<g ref="char:EOLhyphen"/>lefactor; and doing deſpite to the ſpirit of grace, by whom he had before been brought ſo far onward in Chriſtianity, as to own <hi>Chriſt,</hi> and to acknowledg the truth of the Goſpel, and make a profeſſion of religion.</p>
+            <p>For further ſatisfaction, I refer you to Dr. <hi>Gouge</hi> upon theſe places, in his
+<pb n="121" facs="tcp:97750:61"/>Comment on the Epiſtle to the <hi>Hebrews.</hi>
+            </p>
+            <p>But theſe things are ſo clear, that whether we look upon theſe places as con<g ref="char:EOLhyphen"/>taining a deſcription of the ſin againſt the Holy-Ghoſt or not, yet it is manifeſt that howſoever the trou<g ref="char:EOLhyphen"/>bled ſoul may apprehend it ſelf guilty of ſins aggra<g ref="char:EOLhyphen"/>vated with wilfulneſs, or other like hainous circum<g ref="char:EOLhyphen"/>ſtances, yet if they come ſhort of totall apoſtacy from <hi>Chriſt,</hi> and open re<g ref="char:EOLhyphen"/>nouncing of the Goſpel, they cannot reaſonably conclude from theſe places that there ſins are unpar<g ref="char:EOLhyphen"/>donable, and themſelves
+<pb n="122" facs="tcp:97750:62"/>ſealed up under a ſtate of impenitency, and there fore they are to look up<g ref="char:EOLhyphen"/>on theſe thoughts as temp<g ref="char:EOLhyphen"/>tations caſt in by the Devil, for the hindrance of them from returning to <hi>Chriſt</hi> for the cure of their ſpiri<g ref="char:EOLhyphen"/>tual diſtempers, and the recovery of the joys of their ſalvation.</p>
+         </div>
+         <div n="11" type="section">
+            <pb n="123" facs="tcp:97750:62"/>
+            <head>SECT. XI. <hi>Of the day of grace, the time of viſitation, or the accepted time.</hi>
+            </head>
+            <p>IT is certain that there is nothing ſo irrecoverable, or irrevocable as time when it is once paſt and gone, ſo that if any ones ſalvation do depend upon any certain particular, or limited time, it is as impoſſible for ſuch an one to be ſaved, if they overſlip that time or op<g ref="char:EOLhyphen"/>portunity, as it it to call time back again. Hence it ariſeth that unſpeakable
+<pb n="124" facs="tcp:97750:63"/>horrour, which ſometimes ſeizeth upon the ſoul, by apprehending that the day of grace is paſt and gone, equall with that which a<g ref="char:EOLhyphen"/>riſeth from the apprehen<g ref="char:EOLhyphen"/>ſion of having committed the ſin againſt the Holy-Ghoſt; becauſe it is equally impoſſible to recall that time, which God hath fix<g ref="char:EOLhyphen"/>ed by a firm decree; as to obtain the pardon of that ſin, which God hath ab<g ref="char:EOLhyphen"/>ſolutely pronounced un<g ref="char:EOLhyphen"/>pardonable.</p>
+            <p>Now therefore for ex<g ref="char:EOLhyphen"/>tricating the troubled ſoul out of this <hi>Labyrinth,</hi> it will be neceſſary to en<g ref="char:EOLhyphen"/>quire, whether there be
+<pb n="125" facs="tcp:97750:63"/>any ſuch fixed or limited time? which it is? and how it may be diſcovered?</p>
+            <p>There are three ex<g ref="char:EOLhyphen"/>preſſions in ſcripture which are commonly looked up<g ref="char:EOLhyphen"/>on, as pointing out to us ſuch a limited time. In <hi>Luke</hi> 19.44. it is called <hi>the time of viſitation.</hi> In 2 <hi>Cor.</hi> 6.2. there is mention of the <hi>ac<g ref="char:EOLhyphen"/>cepted time, and the day of ſalvation.</hi>
+            </p>
+            <p>It will be neceſſary to premiſe ſomething for ex<g ref="char:EOLhyphen"/>plication of theſe expreſ<g ref="char:EOLhyphen"/>ſions, that the way for re<g ref="char:EOLhyphen"/>ſolving the doubts hence ariſing may be the more clear.</p>
+            <p>We muſt obſerve that
+<pb n="126" facs="tcp:97750:64"/>
+               <hi>the time, or day of viſita<g ref="char:EOLhyphen"/>tion,</hi> is uſed very variouſly in Scripture. For ſome<g ref="char:EOLhyphen"/>times there is mention of a viſitation in a way of judgement, and ſometimes in a way of mercy. And in<g ref="char:EOLhyphen"/>deed in the old Teſtament it is moſt frequently uſed for the time of Gods Pu<g ref="char:EOLhyphen"/>niſhing or deſtroying a people for their ſins, as in <hi>Jer.</hi> 10.15. <hi>Jer.</hi> 50.27. <hi>Iſa.</hi> 26.14. And in <hi>Numb.</hi> 16.29. it is uſed to ſignify an un<g ref="char:EOLhyphen"/>uſual and ſtrange kind of death and deſtruction. This kind of viſitation is deſi<g ref="char:EOLhyphen"/>rable to none.</p>
+            <p>But otherwhile it is uſed to ſignify Gods merciful
+<pb n="127" facs="tcp:97750:64"/>providences to a perſon or people. By his common providences of mercy he is ſaid to viſit, as <hi>Pſa.</hi> 8.4. and <hi>Pſa.</hi> 65.9. But in the new Teſtament the word is moſt commonly uſed to ſignify more ſpeciall bleſſings.</p>
+            <p n="1">1. As the great and ge<g ref="char:EOLhyphen"/>neral bleſſing of ſending <hi>Chriſt</hi> into the world to re<g ref="char:EOLhyphen"/>deem his people <hi>Luk.</hi> 1.68.78. <hi>Luk.</hi> 7.16. And the par<g ref="char:EOLhyphen"/>ticular time of this viſi<g ref="char:EOLhyphen"/>tation is over to all, not to the prejudice, but to the generall benefit of the world.</p>
+            <p n="2">2. It is uſed to ſignify all means of grace and of<g ref="char:EOLhyphen"/>fers of mercy by <hi>Chriſt</hi> in
+<pb n="128" facs="tcp:97750:65"/>the Goſpel, <hi>Luk.</hi> 19.44. How the time of this viſi<g ref="char:EOLhyphen"/>tation is paſt away, ſhall be ſhewed anon.</p>
+            <p n="3">3. It is uſed to ſignify the effectuall bleſſing of the means of grace to the converſion of the perſons ſo viſited, as 1 <hi>Pet</hi> 2.12. Now happy are thoſe bleſ<g ref="char:EOLhyphen"/>ſed ſouls, whoſe day of vi<g ref="char:EOLhyphen"/>ſitation in this ſenſe is paſt, that can ſay, that the day and time is paſt, wherein the Lord did effectually vi<g ref="char:EOLhyphen"/>ſit them with offers of <hi>Chriſt</hi> and grace, to their acceptance and conver<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>As for <hi>the accepted time and the day of ſalvation,</hi>
+               <pb n="129" facs="tcp:97750:65"/>they ſignify one and the ſame thing, which is no o<g ref="char:EOLhyphen"/>ther, but the time, where<g ref="char:EOLhyphen"/>in means of grace are affor<g ref="char:EOLhyphen"/>ded, and offers of <hi>Chriſt,</hi> and life by him are made to the ſoul. This is called <hi>the accepted time,</hi> becauſe it is the time wherein, if we cloſe with the offers that are made, and make a right improvement of the means that are afford<g ref="char:EOLhyphen"/>ed, God will accept of us in <hi>Chriſt.</hi> And it is called <hi>the day of ſalvation,</hi> be<g ref="char:EOLhyphen"/>cauſe the means of grace and offers of <hi>Chriſt,</hi> are means and offers of ſalvati<g ref="char:EOLhyphen"/>on by <hi>Jeſus Chriſt.</hi> So that the ſenſe of theſe two lat<g ref="char:EOLhyphen"/>ter
+<pb n="130" facs="tcp:97750:66"/>expreſſions falls in with the ſecond ſenſe of <hi>the day of viſitation</hi> in mercy.</p>
+            <p>So then the meaning of thoſe expreſſions in refer<g ref="char:EOLhyphen"/>ence to the preſent caſe is this, <hi>viz.</hi> that there is a time wherein God doth mercifully viſit a perſon or people with the means of grace, and offers of life, &amp; ſalvation by <hi>Jeſus Chriſt,</hi> wherewith if they ſhall cloſe by unfeigned repen<g ref="char:EOLhyphen"/>tance and ſaving faith, God will accept of them in <hi>Chriſt,</hi> according to the te<g ref="char:EOLhyphen"/>nour of the Goſpel.</p>
+            <p>Now for the clearing of ſuch doubts and difficul<g ref="char:EOLhyphen"/>ties as may ariſe, concern<g ref="char:EOLhyphen"/>ing
+<pb n="131" facs="tcp:97750:66"/>this day of viſitation, and the accepted time, I ſhall lay down theſe fol<g ref="char:EOLhyphen"/>lowing propoſitions.</p>
+            <p n="1">1. Prop. In reference to Gods decree, the accepted time can no more be paſt now or another time, than it was from all eternity.</p>
+            <p>For the decrees were made from all eternity, and do remain unchangeable to all eternity.</p>
+            <p>But whatſoever there is in theſe decrees, which concerns the ſalvation or damnation of any particu<g ref="char:EOLhyphen"/>lar perſons is altogether ſecret, God having no where written them, nor any way made them
+<pb n="132" facs="tcp:97750:67"/>known, nor made them poſſible to be ſearched in<g ref="char:EOLhyphen"/>to, any further than the e<g ref="char:EOLhyphen"/>vent doth declare them. And therefore for any one to conclude himſelf, either from the beginning, or from any particular time or day paſt, to be in an un<g ref="char:EOLhyphen"/>alterable ſtate of reproba<g ref="char:EOLhyphen"/>tion, is no better than an horrid preſumption pro<g ref="char:EOLhyphen"/>ceeding from the Devil and a deluded heart, and not any way from the word or ſpirit of God.</p>
+            <p n="2">2. Prop. The time of a Nations or Peoples viſita<g ref="char:EOLhyphen"/>tion in generall may evi<g ref="char:EOLhyphen"/>dently expire, and be vi<g ref="char:EOLhyphen"/>ſibly paſt. The Goſpel may
+<pb n="133" facs="tcp:97750:67"/>be removed, and ordinan<g ref="char:EOLhyphen"/>ces taken away from them, or ſo overwhelmed in a deluge of ignorance and error, that it may be true<g ref="char:EOLhyphen"/>ly ſaid, that the accepted time and day of ſalvation is ceaſed unto them.</p>
+            <p>Yet this neither bars of<g ref="char:EOLhyphen"/>fers of grace, from being made to particular perſons in that nation, nor makes them void to ſuch, as are willing to accept and cloſe with them. It is evident that there was ſuch a ceſ<g ref="char:EOLhyphen"/>ſation of the day of ſalva<g ref="char:EOLhyphen"/>tion to the Nation of the <hi>Jews,</hi> upon their rejection of <hi>Chriſt, Matt.</hi> 23.37, 38. <hi>Luk.</hi> 19.42, 44. And upon
+<pb n="134" facs="tcp:97750:68"/>their rejection of the doctrine of the Goſpel pub<g ref="char:EOLhyphen"/>liſhed by the Apoſtles, <hi>Act.</hi> 13.46, 51. <hi>Act.</hi> 18.6. <hi>Act.</hi> 28.25. &amp;c. 28. So that they became no Church, no peculiar people in that ſpeciall relation to God wherein they had ſtood for many ages before. Yet we know that there were many particular perſons of that nation, yea ſome thouſands at that time and afterwards, that, accepting of the Goſpel-offers of grace, were accepted of God, added to the Church and made partakers of Goſpel ſalvation, <hi>Act.</hi> 2.41, 47. Three thouſand
+<pb n="135" facs="tcp:97750:68"/>at one time were added to the Church, and no leſs than five thouſand at a<g ref="char:EOLhyphen"/>nother time, <hi>Act.</hi> 4.4. be<g ref="char:EOLhyphen"/>ſides thoſe that came in daily in ſmaller numbers.</p>
+            <p n="3">3. Prop. The day of grace cannot be ſaid to be paſt to any particular perſon, ſo long as they continue under the gene<g ref="char:EOLhyphen"/>rall call of the Goſpel, and have any deſire to cloſe therewith. And this is to be underſtood, not on<g ref="char:EOLhyphen"/>ly of ſuch calls as may or ſhall be made afterwards for time to come; but whoſoever hath at any time received, a call by the generall publication
+<pb n="136" facs="tcp:97750:69"/>of the Goſpel, though they have hitherto reject<g ref="char:EOLhyphen"/>ed and made light of all thoſe invitations, yet if at any time while they live, they ſhall have an hearty deſire, to come to <hi>Chriſt</hi> for life, and to cloſe with him upon the terms of the Goſpel, then <hi>is the accepted time,</hi> then <hi>is the day of ſalvation;</hi> they <hi>ſhall in no wiſe be caſt off.</hi>
+            </p>
+            <p n="4">4. Prop. Yet without queſtion it is very dan<g ref="char:EOLhyphen"/>gerous to put off invita<g ref="char:EOLhyphen"/>tions, and to make excu<g ref="char:EOLhyphen"/>ſes, and delay the time of our cloſure with <hi>Chriſt.</hi> For while we are delaying and reſt in good purpoſes
+<pb n="137" facs="tcp:97750:69"/>for the future, death may come at unawares, and put an end indeed to the time of our viſitation, and put us paſt a capacity of ac<g ref="char:EOLhyphen"/>cepting, if we would.</p>
+            <p>Beſides, by continu<g ref="char:EOLhyphen"/>ance in ſin, the heart is hardened through the de<g ref="char:EOLhyphen"/>ceitfulneſs thereof, and becomes more, and more unfitted, and unwilling to be brought in ſubjection to the Government of <hi>Chriſt,</hi> and the terms of the Goſpel.</p>
+            <p>And moreover, by de<g ref="char:EOLhyphen"/>lays and excuſes, the ſpirit of God is grieved, and may with-hold his motions, and ceaſe to ſtir up de<g ref="char:EOLhyphen"/>ſires
+<pb n="138" facs="tcp:97750:70"/>in the heart after <hi>Chriſt</hi> any more. There<g ref="char:EOLhyphen"/>fore it is good, to take the ſpirits advice, <hi>to day if ye will hear his voice, harden not your hearts;</hi> take <hi>Chriſt,</hi> and grace, and life, while they are to be had; for if we delay, though it be but to another call, or another day, we know not what a day may bring forth to our eternall pre<g ref="char:EOLhyphen"/>judice.</p>
+            <p n="5">5. Prop. If after all this, we could ſuppoſe that the time of any particular perſons viſitation could be paſt while he lives, yet without all doubt it leaves him under that ſtu<g ref="char:EOLhyphen"/>pidity
+<pb n="139" facs="tcp:97750:70"/>and obduracy in ſin, that he is altogether ſenſleſs of his condition, and the miſery of it: ſo far is he from bewailing the loſſe of his opportu<g ref="char:EOLhyphen"/>nities, and wiſhing in that reſpect, that time paſt could be called back a<g ref="char:EOLhyphen"/>gain.</p>
+            <p>So that I never deſire a more ſure evidence, that a<g ref="char:EOLhyphen"/>ny ones particular day of grace is not paſt, than to find him mourning under the fears of it, bewailing his ſins and want of grace, and thirſting after <hi>Chriſt</hi> and his righteouſneſs.</p>
+            <p>To this head I ſhall only add one word by way
+<pb n="140" facs="tcp:97750:71"/>of explication of that ex<g ref="char:EOLhyphen"/>preſſion of the Apoſtle <hi>Paul, now is the accepted time, now is the day of ſal<g ref="char:EOLhyphen"/>vation.</hi>
+            </p>
+            <p>This word [Now] is not to be underſtood ſo reſtrictively, as if the A<g ref="char:EOLhyphen"/>poſtle limited the accept<g ref="char:EOLhyphen"/>ed time to that day or hour, wherein he ſpake or writ, but now, that is, now that the partition wall betwixt <hi>Jew</hi> and <hi>Gen<g ref="char:EOLhyphen"/>tile</hi> is broken down, the limits of the Church en<g ref="char:EOLhyphen"/>larged, the <hi>Meſſiah</hi> re<g ref="char:EOLhyphen"/>vealed, the Goſpel preach<g ref="char:EOLhyphen"/>ed, and all indifferently called to faith and repen<g ref="char:EOLhyphen"/>tance; now is the time
+<pb n="141" facs="tcp:97750:71"/>wherein all without di<g ref="char:EOLhyphen"/>ſtinction may come in for a ſhare, in the benefits pur<g ref="char:EOLhyphen"/>chaſed by <hi>Jeſus Chriſt,</hi> and whoſoever comes and cloſes with <hi>Chriſt</hi> upon the terms of the Goſpel, ſhall be accepted and ſaved.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:97750:72"/>
+            <head>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urteous Reader, be pleaſed to take notice that theſe Books following are Printed for, and ſold by, <hi>William Miller,</hi> at the <hi>gilded Acorn</hi> in St. <hi>Pauls</hi> Church-yard, near the little North-Door.</head>
+            <list>
+               <item>
+                  <hi>J<g ref="char:V">Ʋ</g>venall</hi> with Cutts by Sir <hi>Robert Stapylton</hi> Knight. F. l.</item>
+               <item>
+                  <hi>Cradocks</hi> Harmony of the Evan<g ref="char:EOLhyphen"/>geliſts. F.</item>
+               <item>— Principles Octavo.</item>
+               <item>
+                  <hi>Clarks</hi> lives of Worthies, Quarto.</item>
+               <item>— Chriſtian good fellowſhip, or love and good works, Quarto.</item>
+               <item>— An Antidote againſt immode<g ref="char:EOLhyphen"/>rate mourning for the dead. Quarto.</item>
+               <item>— Deſcription of <hi>Germany.</hi> Quarto.</item>
+               <item>— Miniſters dues. Quarto.</item>
+               <item>— Golden Apples. Octavo.</item>
+               <item>
+                  <hi>Fettiplace</hi> the ſouls narrow ſearch for ſin. Octavo.</item>
+               <item>
+                  <hi>Archee's</hi> banquet of jeſts, Octavo.</item>
+            </list>
+            <pb facs="tcp:97750:72"/>
+         </div>
+         <div type="docket_title">
+            <p>Clark about Comfort.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
